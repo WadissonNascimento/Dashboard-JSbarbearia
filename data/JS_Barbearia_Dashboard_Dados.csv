@@ -1,0 +1,443 @@
+﻿id_agendamento,data,mes_ano,dia_semana,horario,barbeiro,servico,categoria_servico,duracao_minutos,preco_tabela,desconto,valor_total,status,forma_pagamento,cliente_id,cliente_nome,faixa_etaria,bairro,cliente_recorrente,avaliacao,no_show,origem_dado
+AG-0011,2025-01-01,2025-01,Quarta-feira,10:00,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Pix,CLI-005,Isabella Marques,55+,Industrial,Não,,Não,Simulado para projeto acadêmico
+AG-0028,2025-01-01,2025-01,Quarta-feira,13:00,Jean Santana,Barba,Barba,30,30,0,30,Concluído,Dinheiro,CLI-121,ALISON DE ARAUJO,18-24,São José,Sim,5,Não,Simulado para projeto acadêmico
+AG-0004,2025-01-01,2025-01,Quarta-feira,15:00,Jean Santana,Hidratação,Tratamento,30,15,0,0,Cancelado,,CLI-052,Erik Amorim,25-34,Centro,Sim,,Não,Simulado para projeto acadêmico
+AG-0021,2025-01-01,2025-01,Quarta-feira,17:45,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Cartão de crédito,CLI-044,Adilson Bezerra,45-54,São José,Não,5,Não,Simulado para projeto acadêmico
+AG-0026,2025-01-01,2025-01,Quarta-feira,20:45,Jean Santana,Pezinho,Acabamento,15,10,5,5,Concluído,Dinheiro,CLI-008,WENDELL LOPES,35-44,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0009,2025-01-04,2025-01,Sábado,14:45,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Confirmado,Dinheiro,CLI-095,Cassio Brito,55+,Santa Rosa,Não,,Não,Simulado para projeto acadêmico
+AG-0029,2025-01-04,2025-01,Sábado,17:00,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Dinheiro,CLI-079,kaue Lohan,45-54,São José,Sim,5,Não,Simulado para projeto acadêmico
+AG-0013,2025-01-04,2025-01,Sábado,19:15,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Dinheiro,CLI-025,Canto dos Tênis,55+,Santa Rosa,Sim,5,Não,Simulado para projeto acadêmico
+AG-0002,2025-01-06,2025-01,Segunda-feira,13:00,Jean Santana,Barba,Barba,30,30,0,30,Concluído,Dinheiro,CLI-076,marinaldo ferreira,18-24,Jardim América,Sim,5,Não,Simulado para projeto acadêmico
+AG-0024,2025-01-07,2025-01,Terça-feira,08:00,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Dinheiro,CLI-062,Milton Júnior correia dos Santos Júnior,25-34,Jardim América,Não,,Não,Simulado para projeto acadêmico
+AG-0014,2025-01-07,2025-01,Terça-feira,14:30,Jean Santana,Cabelo + luzes,Coloração,120,60,0,0,No-show,,CLI-091,ORS Frost,18-24,Bela Vista,Sim,,Sim,Simulado para projeto acadêmico
+AG-0032,2025-01-07,2025-01,Terça-feira,16:00,Jean Santana,Cabelo,Cabelo,35,35,0,35,Concluído,Pix,CLI-016,Gerson Samuel Teixeira de Sousa,18-24,São José,Sim,5,Não,Simulado para projeto acadêmico
+AG-0023,2025-01-07,2025-01,Terça-feira,17:30,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Dinheiro,CLI-078,Mario Rodrigues,35-44,Vila Nova,Sim,4,Não,Simulado para projeto acadêmico
+AG-0035,2025-01-08,2025-01,Quarta-feira,10:45,Jean Santana,Barba,Barba,30,30,0,30,Concluído,Cartão de crédito,CLI-121,ALISON DE ARAUJO,18-24,São José,Sim,,Não,Simulado para projeto acadêmico
+AG-0022,2025-01-09,2025-01,Quinta-feira,10:00,Jean Santana,Cabelo,Cabelo,35,35,0,35,Concluído,Dinheiro,CLI-069,Jailson Silva,45-54,Jardim América,Não,5,Não,Simulado para projeto acadêmico
+AG-0016,2025-01-09,2025-01,Quinta-feira,16:15,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Dinheiro,CLI-117,Cleilson -Tv,25-34,Industrial,Não,,Não,Simulado para projeto acadêmico
+AG-0003,2025-01-10,2025-01,Sexta-feira,15:00,Jean Santana,Barba,Barba,30,30,0,30,Concluído,Cartão de débito,CLI-105,Rony Brayan Santana Maia,55+,Bela Vista,Não,4,Não,Simulado para projeto acadêmico
+AG-0018,2025-01-11,2025-01,Sábado,09:30,Jean Santana,Barba,Barba,30,30,0,0,Cancelado,,CLI-126,Audo Alexander,18-24,Bela Vista,Não,,Não,Simulado para projeto acadêmico
+AG-0034,2025-01-11,2025-01,Sábado,15:30,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Dinheiro,CLI-039,Joao filipe,45-54,Santa Rosa,Não,5,Não,Simulado para projeto acadêmico
+AG-0020,2025-01-12,2025-01,Domingo,10:30,Jean Santana,Barba,Barba,30,30,0,30,Concluído,Pix,CLI-004,Erick Davalos,45-54,Santa Rosa,Sim,4,Não,Simulado para projeto acadêmico
+AG-0037,2025-01-12,2025-01,Domingo,18:45,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Cartão de crédito,CLI-097,Valtemir Alves Correia,25-34,Jardim América,Sim,5,Não,Simulado para projeto acadêmico
+AG-0027,2025-01-13,2025-01,Segunda-feira,10:15,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Cartão de débito,CLI-109,Damares Viviane,45-54,Santa Rosa,Sim,4,Não,Simulado para projeto acadêmico
+AG-0005,2025-01-13,2025-01,Segunda-feira,19:00,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,0,Cancelado,,CLI-032,Levy silva,25-34,Santa Rosa,Não,,Não,Simulado para projeto acadêmico
+AG-0031,2025-01-15,2025-01,Quarta-feira,14:00,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Cartão de débito,CLI-005,Isabella Marques,55+,Industrial,Não,4,Não,Simulado para projeto acadêmico
+AG-0036,2025-01-16,2025-01,Quinta-feira,20:30,Jean Santana,Cabelo,Cabelo,35,35,0,0,Cancelado,,CLI-073,João victor de carli,35-44,Centro,Sim,,Não,Simulado para projeto acadêmico
+AG-0033,2025-01-17,2025-01,Sexta-feira,08:30,Jean Santana,Barba,Barba,30,30,0,30,Concluído,Pix,CLI-070,Jonatan Ribeiro,55+,Bela Vista,Sim,,Não,Simulado para projeto acadêmico
+AG-0006,2025-01-17,2025-01,Sexta-feira,09:00,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,0,Cancelado,,CLI-029,Igor Nakao,45-54,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0012,2025-01-18,2025-01,Sábado,17:00,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Dinheiro,CLI-129,Fco Mauríciø Mendes 8D,45-54,Centro,Não,5,Não,Simulado para projeto acadêmico
+AG-0001,2025-01-18,2025-01,Sábado,19:00,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Pix,CLI-015,Wilksor Apolinario,55+,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0025,2025-01-21,2025-01,Terça-feira,14:00,Jean Santana,Cabelo e barba,Combo,60,60,5,55,Concluído,Dinheiro,CLI-040,Allyson gabriel Oji da silva,55+,Industrial,Sim,5,Não,Simulado para projeto acadêmico
+AG-0008,2025-01-22,2025-01,Quarta-feira,11:15,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Cartão de débito,CLI-103,Sinval Apolinário,35-44,Industrial,Sim,4,Não,Simulado para projeto acadêmico
+AG-0007,2025-01-22,2025-01,Quarta-feira,13:15,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Cartão de crédito,CLI-105,Rony Brayan Santana Maia,55+,Bela Vista,Não,5,Não,Simulado para projeto acadêmico
+AG-0019,2025-01-23,2025-01,Quinta-feira,20:00,Jean Santana,Barba,Barba,30,30,0,0,Cancelado,,CLI-012,Nicolas Amaral,25-34,Industrial,Não,,Não,Simulado para projeto acadêmico
+AG-0030,2025-01-24,2025-01,Sexta-feira,11:00,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Cartão de débito,CLI-093,Antônio Matheus Silva Rodrigues Antonio Matheus,35-44,São José,Não,5,Não,Simulado para projeto acadêmico
+AG-0017,2025-01-25,2025-01,Sábado,15:30,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Pix,CLI-019,Vi Santana,45-54,Industrial,Sim,4,Não,Simulado para projeto acadêmico
+AG-0015,2025-01-27,2025-01,Segunda-feira,08:15,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Cartão de débito,CLI-102,Pablo Junior,25-34,Santa Rosa,Não,4,Não,Simulado para projeto acadêmico
+AG-0010,2025-01-27,2025-01,Segunda-feira,09:30,Jean Santana,Hidratação,Tratamento,30,15,0,0,Cancelado,,CLI-071,Rogerio Maia nogueira,18-24,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0038,2025-02-01,2025-02,Sábado,15:00,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Pix,CLI-016,Gerson Samuel Teixeira de Sousa,18-24,São José,Sim,5,Não,Simulado para projeto acadêmico
+AG-0057,2025-02-02,2025-02,Domingo,13:00,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Cartão de crédito,CLI-003,Juniior Bitencourtt,35-44,Centro,Não,5,Não,Simulado para projeto acadêmico
+AG-0064,2025-02-02,2025-02,Domingo,18:15,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Pix,CLI-001,Rodrigo Passos,18-24,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0063,2025-02-05,2025-02,Quarta-feira,09:00,Jean Santana,Cabelo + luzes,Coloração,120,60,5,55,Concluído,Dinheiro,CLI-015,Wilksor Apolinario,55+,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0066,2025-02-06,2025-02,Quinta-feira,16:45,Jean Santana,Relaxamento,Tratamento,45,20,0,20,Concluído,Dinheiro,CLI-026,SilvaNey,18-24,Industrial,Não,4,Não,Simulado para projeto acadêmico
+AG-0042,2025-02-07,2025-02,Sexta-feira,15:45,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Pix,CLI-070,Jonatan Ribeiro,55+,Bela Vista,Sim,4,Não,Simulado para projeto acadêmico
+AG-0043,2025-02-08,2025-02,Sábado,11:45,Jean Santana,Hidratação,Tratamento,30,15,5,10,Concluído,Dinheiro,CLI-074,Luis alberto,45-54,Santa Rosa,Não,,Não,Simulado para projeto acadêmico
+AG-0056,2025-02-09,2025-02,Domingo,11:00,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Dinheiro,CLI-096,Édipo Santos Rocha,18-24,Industrial,Não,4,Não,Simulado para projeto acadêmico
+AG-0061,2025-02-09,2025-02,Domingo,13:15,Jean Santana,Barba,Barba,30,30,0,30,Confirmado,Cartão de débito,CLI-009,Guilherme Pereira,45-54,São José,Não,,Não,Simulado para projeto acadêmico
+AG-0055,2025-02-10,2025-02,Segunda-feira,13:30,Jean Santana,Luzes,Coloração,90,35,0,0,Cancelado,,CLI-102,Pablo Junior,25-34,Santa Rosa,Não,,Não,Simulado para projeto acadêmico
+AG-0067,2025-02-10,2025-02,Segunda-feira,14:45,Jean Santana,Relaxamento,Tratamento,45,20,0,20,Concluído,Dinheiro,CLI-081,Eduardo Levi,18-24,Santa Rosa,Não,5,Não,Simulado para projeto acadêmico
+AG-0039,2025-02-10,2025-02,Segunda-feira,15:45,Jean Santana,Cabelo e barba,Combo,60,60,0,0,Cancelado,,CLI-109,Damares Viviane,45-54,Santa Rosa,Sim,,Não,Simulado para projeto acadêmico
+AG-0053,2025-02-11,2025-02,Terça-feira,10:15,Jean Santana,Sombrancelha,Acabamento,15,10,0,0,Cancelado,,CLI-008,WENDELL LOPES,35-44,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0044,2025-02-11,2025-02,Terça-feira,16:00,Jean Santana,Relaxamento,Tratamento,45,20,0,20,Concluído,Cartão de débito,CLI-062,Milton Júnior correia dos Santos Júnior,25-34,Jardim América,Não,4,Não,Simulado para projeto acadêmico
+AG-0060,2025-02-11,2025-02,Terça-feira,18:00,Jean Santana,Relaxamento,Tratamento,45,20,0,20,Concluído,Dinheiro,CLI-048,Marcos Eduardo Tavares costa,35-44,Jardim América,Não,5,Não,Simulado para projeto acadêmico
+AG-0069,2025-02-12,2025-02,Quarta-feira,10:00,Jean Santana,Sombrancelha,Acabamento,15,10,5,5,Concluído,Cartão de crédito,CLI-062,Milton Júnior correia dos Santos Júnior,25-34,Jardim América,Não,,Não,Simulado para projeto acadêmico
+AG-0049,2025-02-12,2025-02,Quarta-feira,19:00,Jean Santana,Barba,Barba,30,30,0,0,No-show,,CLI-100,进多来现,55+,São José,Sim,,Sim,Simulado para projeto acadêmico
+AG-0045,2025-02-14,2025-02,Sexta-feira,10:00,Jean Santana,Cabelo,Cabelo,35,35,0,35,Concluído,Dinheiro,CLI-067,Miguel Angel Larrazabal valdez,25-34,Santa Rosa,Sim,5,Não,Simulado para projeto acadêmico
+AG-0046,2025-02-14,2025-02,Sexta-feira,11:00,Jean Santana,Cabelo + luzes,Coloração,120,60,5,0,No-show,,CLI-066,Edson Henrique,18-24,Centro,Não,,Sim,Simulado para projeto acadêmico
+AG-0068,2025-02-17,2025-02,Segunda-feira,11:15,Jean Santana,Cabelo,Cabelo,35,35,0,35,Concluído,Cartão de débito,CLI-121,ALISON DE ARAUJO,18-24,São José,Sim,5,Não,Simulado para projeto acadêmico
+AG-0048,2025-02-18,2025-02,Terça-feira,08:00,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Cartão de débito,CLI-129,Fco Mauríciø Mendes 8D,45-54,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0052,2025-02-19,2025-02,Quarta-feira,09:30,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Cartão de crédito,CLI-081,Eduardo Levi,18-24,Santa Rosa,Não,5,Não,Simulado para projeto acadêmico
+AG-0065,2025-02-19,2025-02,Quarta-feira,15:30,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Confirmado,Pix,CLI-034,Rafael Silva,45-54,Jardim América,Sim,,Não,Simulado para projeto acadêmico
+AG-0054,2025-02-20,2025-02,Quinta-feira,08:30,Jean Santana,Cabelo,Cabelo,35,35,0,0,Cancelado,,CLI-015,Wilksor Apolinario,55+,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0050,2025-02-20,2025-02,Quinta-feira,20:00,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Dinheiro,CLI-016,Gerson Samuel Teixeira de Sousa,18-24,São José,Sim,4,Não,Simulado para projeto acadêmico
+AG-0051,2025-02-22,2025-02,Sábado,20:45,Jean Santana,Relaxamento,Tratamento,45,20,0,20,Concluído,Pix,CLI-089,Vitor Daniel Souza,45-54,Industrial,Não,5,Não,Simulado para projeto acadêmico
+AG-0062,2025-02-23,2025-02,Domingo,13:15,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Dinheiro,CLI-082,fre fairi luisandresantos,25-34,Industrial,Sim,,Não,Simulado para projeto acadêmico
+AG-0058,2025-02-23,2025-02,Domingo,17:00,Jean Santana,Relaxamento,Tratamento,45,20,0,20,Concluído,Dinheiro,CLI-124,Diego Gonçalves,45-54,Industrial,Sim,4,Não,Simulado para projeto acadêmico
+AG-0071,2025-02-23,2025-02,Domingo,18:30,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Cartão de crédito,CLI-073,João victor de carli,35-44,Centro,Sim,,Não,Simulado para projeto acadêmico
+AG-0047,2025-02-23,2025-02,Domingo,20:30,Jean Santana,Hidratação,Tratamento,30,15,0,0,Cancelado,,CLI-085,ryan gregorio,55+,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0040,2025-02-25,2025-02,Terça-feira,11:15,Jean Santana,Cabelo + luzes,Coloração,120,60,5,55,Concluído,Dinheiro,CLI-004,Erick Davalos,45-54,Santa Rosa,Sim,4,Não,Simulado para projeto acadêmico
+AG-0041,2025-02-26,2025-02,Quarta-feira,17:15,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Cartão de débito,CLI-019,Vi Santana,45-54,Industrial,Sim,5,Não,Simulado para projeto acadêmico
+AG-0059,2025-02-26,2025-02,Quarta-feira,19:45,Jean Santana,Relaxamento,Tratamento,45,20,5,0,No-show,,CLI-045,Pedro Henrique,55+,Centro,Não,,Sim,Simulado para projeto acadêmico
+AG-0070,2025-02-27,2025-02,Quinta-feira,11:15,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Cartão de crédito,CLI-122,Isaac lima,25-34,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0099,2025-03-01,2025-03,Sábado,08:15,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Cartão de crédito,CLI-129,Fco Mauríciø Mendes 8D,45-54,Centro,Não,5,Não,Simulado para projeto acadêmico
+AG-0110,2025-03-01,2025-03,Sábado,16:00,Jean Santana,Cabelo,Cabelo,35,35,0,35,Concluído,Cartão de crédito,CLI-035,cage //,55+,Bela Vista,Não,5,Não,Simulado para projeto acadêmico
+AG-0073,2025-03-02,2025-03,Domingo,11:00,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Cartão de débito,CLI-028,João Pedro Marques segundo jardim,35-44,Bela Vista,Sim,5,Não,Simulado para projeto acadêmico
+AG-0103,2025-03-02,2025-03,Domingo,16:00,Jean Santana,Relaxamento,Tratamento,45,20,0,20,Confirmado,Dinheiro,CLI-068,Joao 1567 Sontas,35-44,Industrial,Não,,Não,Simulado para projeto acadêmico
+AG-0086,2025-03-02,2025-03,Domingo,19:00,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Cartão de crédito,CLI-029,Igor Nakao,45-54,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0104,2025-03-03,2025-03,Segunda-feira,13:00,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Dinheiro,CLI-050,Bruno Santos,55+,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0092,2025-03-04,2025-03,Terça-feira,10:15,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Dinheiro,CLI-071,Rogerio Maia nogueira,18-24,Vila Nova,Sim,4,Não,Simulado para projeto acadêmico
+AG-0101,2025-03-04,2025-03,Terça-feira,20:15,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Cartão de crédito,CLI-062,Milton Júnior correia dos Santos Júnior,25-34,Jardim América,Não,4,Não,Simulado para projeto acadêmico
+AG-0077,2025-03-05,2025-03,Quarta-feira,19:00,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Pix,CLI-009,Guilherme Pereira,45-54,São José,Não,4,Não,Simulado para projeto acadêmico
+AG-0074,2025-03-06,2025-03,Quinta-feira,08:00,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Dinheiro,CLI-084,Josué Santos,45-54,Bela Vista,Não,5,Não,Simulado para projeto acadêmico
+AG-0075,2025-03-06,2025-03,Quinta-feira,11:00,Jean Santana,Luzes,Coloração,90,35,0,0,No-show,,CLI-075,William Cruz,55+,Industrial,Não,,Sim,Simulado para projeto acadêmico
+AG-0072,2025-03-07,2025-03,Sexta-feira,18:00,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,0,No-show,,CLI-050,Bruno Santos,55+,Vila Nova,Sim,,Sim,Simulado para projeto acadêmico
+AG-0082,2025-03-07,2025-03,Sexta-feira,20:15,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Confirmado,Cartão de débito,CLI-007,Rodrigo Oliveira,25-34,Bela Vista,Sim,,Não,Simulado para projeto acadêmico
+AG-0098,2025-03-08,2025-03,Sábado,18:00,Jean Santana,Luzes,Coloração,90,35,0,0,No-show,,CLI-053,Ray Trajano,35-44,Santa Rosa,Não,,Sim,Simulado para projeto acadêmico
+AG-0081,2025-03-09,2025-03,Domingo,16:15,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Cartão de débito,CLI-097,Valtemir Alves Correia,25-34,Jardim América,Sim,5,Não,Simulado para projeto acadêmico
+AG-0106,2025-03-10,2025-03,Segunda-feira,18:00,Jean Santana,Relaxamento,Tratamento,45,20,0,20,Concluído,Cartão de débito,CLI-015,Wilksor Apolinario,55+,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0108,2025-03-12,2025-03,Quarta-feira,14:00,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Cartão de crédito,CLI-029,Igor Nakao,45-54,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0088,2025-03-14,2025-03,Sexta-feira,10:30,Jean Santana,Barba,Barba,30,30,0,0,Cancelado,,CLI-101,Mikaelly Correia,18-24,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0087,2025-03-14,2025-03,Sexta-feira,11:00,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Cartão de crédito,CLI-069,Jailson Silva,45-54,Jardim América,Não,4,Não,Simulado para projeto acadêmico
+AG-0102,2025-03-14,2025-03,Sexta-feira,17:30,Jean Santana,Sombrancelha,Acabamento,15,10,5,5,Concluído,Cartão de débito,CLI-038,Ícaro Rian,35-44,Centro,Não,5,Não,Simulado para projeto acadêmico
+AG-0100,2025-03-15,2025-03,Sábado,14:45,Jean Santana,Hidratação,Tratamento,30,15,5,10,Concluído,Cartão de crédito,CLI-071,Rogerio Maia nogueira,18-24,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0089,2025-03-15,2025-03,Sábado,16:15,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Cartão de crédito,CLI-024,Brenno Silva,45-54,Centro,Não,5,Não,Simulado para projeto acadêmico
+AG-0079,2025-03-16,2025-03,Domingo,19:30,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Pix,CLI-010,Saulo Mendes de Melo,55+,Centro,Sim,4,Não,Simulado para projeto acadêmico
+AG-0084,2025-03-17,2025-03,Segunda-feira,13:00,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Cartão de débito,CLI-104,Luis Larrazabal,45-54,Jardim América,Não,4,Não,Simulado para projeto acadêmico
+AG-0085,2025-03-17,2025-03,Segunda-feira,19:00,Jean Santana,Cabelo,Cabelo,35,35,0,35,Concluído,Pix,CLI-024,Brenno Silva,45-54,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0105,2025-03-18,2025-03,Terça-feira,08:45,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Cartão de débito,CLI-054,Carlos Henrique Henrique,45-54,Industrial,Não,,Não,Simulado para projeto acadêmico
+AG-0080,2025-03-18,2025-03,Terça-feira,09:30,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Pix,CLI-001,Rodrigo Passos,18-24,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0107,2025-03-18,2025-03,Terça-feira,10:00,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Cartão de débito,CLI-048,Marcos Eduardo Tavares costa,35-44,Jardim América,Não,5,Não,Simulado para projeto acadêmico
+AG-0091,2025-03-20,2025-03,Quinta-feira,13:15,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Pix,CLI-011,Rubens Silva,18-24,Santa Rosa,Não,4,Não,Simulado para projeto acadêmico
+AG-0094,2025-03-20,2025-03,Quinta-feira,14:45,Jean Santana,Barba,Barba,30,30,0,30,Concluído,Cartão de crédito,CLI-046,Samuel Marcio,18-24,Santa Rosa,Sim,5,Não,Simulado para projeto acadêmico
+AG-0095,2025-03-22,2025-03,Sábado,08:00,Jean Santana,Barba,Barba,30,30,0,30,Concluído,Pix,CLI-058,Mateus Teixeira,35-44,São José,Sim,4,Não,Simulado para projeto acadêmico
+AG-0109,2025-03-22,2025-03,Sábado,11:00,Jean Santana,Pezinho,Acabamento,15,10,0,0,Cancelado,,CLI-022,Evandro Magalhães,25-34,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0090,2025-03-22,2025-03,Sábado,16:00,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Cartão de crédito,CLI-119,Ronny Alves,45-54,Bela Vista,Não,5,Não,Simulado para projeto acadêmico
+AG-0078,2025-03-22,2025-03,Sábado,16:45,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Pix,CLI-074,Luis alberto,45-54,Santa Rosa,Não,5,Não,Simulado para projeto acadêmico
+AG-0097,2025-03-23,2025-03,Domingo,11:30,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Pix,CLI-032,Levy silva,25-34,Santa Rosa,Não,5,Não,Simulado para projeto acadêmico
+AG-0096,2025-03-24,2025-03,Segunda-feira,10:15,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Pix,CLI-093,Antônio Matheus Silva Rodrigues Antonio Matheus,35-44,São José,Não,4,Não,Simulado para projeto acadêmico
+AG-0093,2025-03-25,2025-03,Terça-feira,10:00,Jean Santana,Relaxamento,Tratamento,45,20,5,15,Concluído,Cartão de crédito,CLI-028,João Pedro Marques segundo jardim,35-44,Bela Vista,Sim,5,Não,Simulado para projeto acadêmico
+AG-0076,2025-03-25,2025-03,Terça-feira,11:45,Jean Santana,Hidratação,Tratamento,30,15,0,15,Confirmado,Cartão de crédito,CLI-050,Bruno Santos,55+,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0083,2025-03-27,2025-03,Quinta-feira,18:15,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Dinheiro,CLI-010,Saulo Mendes de Melo,55+,Centro,Sim,,Não,Simulado para projeto acadêmico
+AG-0146,2025-04-01,2025-04,Terça-feira,14:00,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Dinheiro,CLI-041,Natan Kovatch,18-24,Jardim América,Não,4,Não,Simulado para projeto acadêmico
+AG-0126,2025-04-01,2025-04,Terça-feira,20:00,Jean Santana,Relaxamento,Tratamento,45,20,0,20,Concluído,Cartão de débito,CLI-056,Diego Evo,18-24,Bela Vista,Não,4,Não,Simulado para projeto acadêmico
+AG-0152,2025-04-04,2025-04,Sexta-feira,18:15,Jean Santana,Luzes,Coloração,90,35,0,35,Confirmado,Dinheiro,CLI-077,Elenildo Ferreira,25-34,Bela Vista,Não,,Não,Simulado para projeto acadêmico
+AG-0113,2025-04-05,2025-04,Sábado,11:00,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Confirmado,Dinheiro,CLI-094,miqueias santana,45-54,Centro,Sim,,Não,Simulado para projeto acadêmico
+AG-0124,2025-04-06,2025-04,Domingo,10:00,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Pix,CLI-108,Ander Clash,35-44,Centro,Não,5,Não,Simulado para projeto acadêmico
+AG-0143,2025-04-06,2025-04,Domingo,15:30,Jean Santana,Cabelo,Cabelo,35,35,0,35,Concluído,Pix,CLI-018,Wellington Souza,35-44,Santa Rosa,Não,5,Não,Simulado para projeto acadêmico
+AG-0150,2025-04-06,2025-04,Domingo,17:45,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Cartão de débito,CLI-113,José Eduardo,35-44,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0122,2025-04-07,2025-04,Segunda-feira,08:30,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Confirmado,Dinheiro,CLI-122,Isaac lima,25-34,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0136,2025-04-07,2025-04,Segunda-feira,14:15,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Pix,CLI-025,Canto dos Tênis,55+,Santa Rosa,Sim,5,Não,Simulado para projeto acadêmico
+AG-0111,2025-04-07,2025-04,Segunda-feira,16:00,Jean Santana,Cabelo,Cabelo,35,35,0,0,Cancelado,,CLI-089,Vitor Daniel Souza,45-54,Industrial,Não,,Não,Simulado para projeto acadêmico
+AG-0144,2025-04-08,2025-04,Terça-feira,14:00,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Dinheiro,CLI-067,Miguel Angel Larrazabal valdez,25-34,Santa Rosa,Sim,5,Não,Simulado para projeto acadêmico
+AG-0147,2025-04-08,2025-04,Terça-feira,15:45,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Pix,CLI-032,Levy silva,25-34,Santa Rosa,Não,,Não,Simulado para projeto acadêmico
+AG-0151,2025-04-09,2025-04,Quarta-feira,20:45,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Dinheiro,CLI-046,Samuel Marcio,18-24,Santa Rosa,Sim,,Não,Simulado para projeto acadêmico
+AG-0140,2025-04-10,2025-04,Quinta-feira,19:15,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Dinheiro,CLI-060,Gabriel de Paula Oliveira,55+,Santa Rosa,Não,5,Não,Simulado para projeto acadêmico
+AG-0123,2025-04-11,2025-04,Sexta-feira,10:15,Jean Santana,Relaxamento,Tratamento,45,20,0,20,Concluído,Dinheiro,CLI-025,Canto dos Tênis,55+,Santa Rosa,Sim,4,Não,Simulado para projeto acadêmico
+AG-0114,2025-04-13,2025-04,Domingo,10:15,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Cartão de crédito,CLI-098,Fabio Arruda,35-44,Bela Vista,Não,5,Não,Simulado para projeto acadêmico
+AG-0135,2025-04-13,2025-04,Domingo,14:15,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Confirmado,Dinheiro,CLI-125,raffa,55+,Jardim América,Não,,Não,Simulado para projeto acadêmico
+AG-0116,2025-04-14,2025-04,Segunda-feira,08:00,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Cartão de crédito,CLI-003,Juniior Bitencourtt,35-44,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0129,2025-04-14,2025-04,Segunda-feira,19:00,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Cartão de crédito,CLI-013,Cleison Teixeira,35-44,Jardim América,Sim,5,Não,Simulado para projeto acadêmico
+AG-0125,2025-04-15,2025-04,Terça-feira,11:00,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Pix,CLI-072,Garachi,25-34,São José,Não,5,Não,Simulado para projeto acadêmico
+AG-0112,2025-04-16,2025-04,Quarta-feira,09:45,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,0,No-show,,CLI-062,Milton Júnior correia dos Santos Júnior,25-34,Jardim América,Não,,Sim,Simulado para projeto acadêmico
+AG-0120,2025-04-16,2025-04,Quarta-feira,10:00,Jean Santana,Pezinho,Acabamento,15,10,5,5,Concluído,Pix,CLI-115,dudu,55+,Centro,Sim,5,Não,Simulado para projeto acadêmico
+AG-0145,2025-04-16,2025-04,Quarta-feira,11:45,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Confirmado,Cartão de débito,CLI-058,Mateus Teixeira,35-44,São José,Sim,,Não,Simulado para projeto acadêmico
+AG-0148,2025-04-16,2025-04,Quarta-feira,14:00,Jean Santana,Cabelo,Cabelo,35,35,5,30,Concluído,Cartão de débito,CLI-075,William Cruz,55+,Industrial,Não,5,Não,Simulado para projeto acadêmico
+AG-0137,2025-04-17,2025-04,Quinta-feira,13:00,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Confirmado,Cartão de débito,CLI-118,Fernando cunha Sanches,35-44,Jardim América,Sim,,Não,Simulado para projeto acadêmico
+AG-0127,2025-04-17,2025-04,Quinta-feira,16:00,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Pix,CLI-100,进多来现,55+,São José,Sim,4,Não,Simulado para projeto acadêmico
+AG-0131,2025-04-17,2025-04,Quinta-feira,20:15,Jean Santana,Barba,Barba,30,30,0,0,No-show,,CLI-074,Luis alberto,45-54,Santa Rosa,Não,,Sim,Simulado para projeto acadêmico
+AG-0130,2025-04-18,2025-04,Sexta-feira,09:15,Jean Santana,Cabelo,Cabelo,35,35,0,35,Concluído,Cartão de débito,CLI-028,João Pedro Marques segundo jardim,35-44,Bela Vista,Sim,5,Não,Simulado para projeto acadêmico
+AG-0118,2025-04-18,2025-04,Sexta-feira,11:30,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Cartão de crédito,CLI-082,fre fairi luisandresantos,25-34,Industrial,Sim,5,Não,Simulado para projeto acadêmico
+AG-0142,2025-04-19,2025-04,Sábado,11:15,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Cartão de débito,CLI-007,Rodrigo Oliveira,25-34,Bela Vista,Sim,4,Não,Simulado para projeto acadêmico
+AG-0132,2025-04-19,2025-04,Sábado,18:15,Jean Santana,Pezinho,Acabamento,15,10,5,5,Concluído,Dinheiro,CLI-115,dudu,55+,Centro,Sim,,Não,Simulado para projeto acadêmico
+AG-0128,2025-04-20,2025-04,Domingo,08:00,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Cartão de débito,CLI-125,raffa,55+,Jardim América,Não,5,Não,Simulado para projeto acadêmico
+AG-0149,2025-04-21,2025-04,Segunda-feira,18:00,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Confirmado,Cartão de débito,CLI-086,Kauã Moura,18-24,São José,Não,,Não,Simulado para projeto acadêmico
+AG-0119,2025-04-22,2025-04,Terça-feira,10:00,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Cartão de crédito,CLI-121,ALISON DE ARAUJO,18-24,São José,Sim,5,Não,Simulado para projeto acadêmico
+AG-0139,2025-04-22,2025-04,Terça-feira,18:30,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Cartão de crédito,CLI-030,Álvaro Gabriel,55+,São José,Não,5,Não,Simulado para projeto acadêmico
+AG-0133,2025-04-22,2025-04,Terça-feira,18:45,Jean Santana,Luzes,Coloração,90,35,0,35,Confirmado,Pix,CLI-036,Ryan Maia,18-24,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0121,2025-04-24,2025-04,Quinta-feira,08:15,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Cartão de débito,CLI-032,Levy silva,25-34,Santa Rosa,Não,,Não,Simulado para projeto acadêmico
+AG-0134,2025-04-24,2025-04,Quinta-feira,15:45,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Pix,CLI-058,Mateus Teixeira,35-44,São José,Sim,5,Não,Simulado para projeto acadêmico
+AG-0115,2025-04-24,2025-04,Quinta-feira,16:00,Jean Santana,Barba,Barba,30,30,0,0,Cancelado,,CLI-028,João Pedro Marques segundo jardim,35-44,Bela Vista,Sim,,Não,Simulado para projeto acadêmico
+AG-0138,2025-04-25,2025-04,Sexta-feira,10:30,Jean Santana,Sombrancelha,Acabamento,15,10,5,5,Concluído,Cartão de débito,CLI-097,Valtemir Alves Correia,25-34,Jardim América,Sim,,Não,Simulado para projeto acadêmico
+AG-0141,2025-04-26,2025-04,Sábado,11:30,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Pix,CLI-031,Henri Silva,18-24,Centro,Sim,5,Não,Simulado para projeto acadêmico
+AG-0117,2025-04-27,2025-04,Domingo,09:00,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Pix,CLI-077,Elenildo Ferreira,25-34,Bela Vista,Não,4,Não,Simulado para projeto acadêmico
+AG-0179,2025-05-01,2025-05,Quinta-feira,11:00,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Cartão de débito,CLI-097,Valtemir Alves Correia,25-34,Jardim América,Sim,5,Não,Simulado para projeto acadêmico
+AG-0155,2025-05-03,2025-05,Sábado,08:00,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Cartão de débito,CLI-114,Jeferson Santos,45-54,São José,Não,5,Não,Simulado para projeto acadêmico
+AG-0164,2025-05-03,2025-05,Sábado,17:00,Jean Santana,Barba,Barba,30,30,0,30,Concluído,Cartão de crédito,CLI-099,Eduardo Oenninng,45-54,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0165,2025-05-04,2025-05,Domingo,19:00,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Cartão de crédito,CLI-111,Luiz Felipe Magalhaes,18-24,Jardim América,Não,4,Não,Simulado para projeto acadêmico
+AG-0183,2025-05-04,2025-05,Domingo,19:45,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Cartão de crédito,CLI-099,Eduardo Oenninng,45-54,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0169,2025-05-05,2025-05,Segunda-feira,19:00,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Cartão de crédito,CLI-085,ryan gregorio,55+,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0184,2025-05-06,2025-05,Terça-feira,08:15,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Dinheiro,CLI-033,Pedro Henrique Rocha de Sousa,35-44,Industrial,Não,5,Não,Simulado para projeto acadêmico
+AG-0167,2025-05-08,2025-05,Quinta-feira,09:30,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Dinheiro,CLI-033,Pedro Henrique Rocha de Sousa,35-44,Industrial,Não,5,Não,Simulado para projeto acadêmico
+AG-0163,2025-05-09,2025-05,Sexta-feira,14:30,Jean Santana,Cabelo,Cabelo,35,35,0,0,No-show,,CLI-085,ryan gregorio,55+,Vila Nova,Sim,,Sim,Simulado para projeto acadêmico
+AG-0172,2025-05-10,2025-05,Sábado,11:00,Jean Santana,Relaxamento,Tratamento,45,20,0,20,Confirmado,Pix,CLI-029,Igor Nakao,45-54,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0176,2025-05-10,2025-05,Sábado,14:15,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,0,Cancelado,,CLI-094,miqueias santana,45-54,Centro,Sim,,Não,Simulado para projeto acadêmico
+AG-0153,2025-05-12,2025-05,Segunda-feira,16:00,Jean Santana,Cabelo,Cabelo,35,35,0,35,Concluído,Pix,CLI-032,Levy silva,25-34,Santa Rosa,Não,5,Não,Simulado para projeto acadêmico
+AG-0185,2025-05-13,2025-05,Terça-feira,13:00,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Cartão de débito,CLI-073,João victor de carli,35-44,Centro,Sim,5,Não,Simulado para projeto acadêmico
+AG-0177,2025-05-13,2025-05,Terça-feira,13:30,Jean Santana,Hidratação,Tratamento,30,15,0,15,Confirmado,Dinheiro,CLI-042,Edu Freire,25-34,Bela Vista,Não,,Não,Simulado para projeto acadêmico
+AG-0170,2025-05-13,2025-05,Terça-feira,14:30,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Dinheiro,CLI-013,Cleison Teixeira,35-44,Jardim América,Sim,5,Não,Simulado para projeto acadêmico
+AG-0174,2025-05-13,2025-05,Terça-feira,16:00,Jean Santana,Barba,Barba,30,30,0,30,Concluído,Pix,CLI-025,Canto dos Tênis,55+,Santa Rosa,Sim,4,Não,Simulado para projeto acadêmico
+AG-0154,2025-05-14,2025-05,Quarta-feira,11:00,Jean Santana,Cabelo e barba,Combo,60,60,0,0,No-show,,CLI-059,alexander gonzalez,45-54,Centro,Não,,Sim,Simulado para projeto acadêmico
+AG-0188,2025-05-14,2025-05,Quarta-feira,15:00,Jean Santana,Sombrancelha,Acabamento,15,10,0,0,Cancelado,,CLI-101,Mikaelly Correia,18-24,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0189,2025-05-14,2025-05,Quarta-feira,17:00,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Pix,CLI-029,Igor Nakao,45-54,Vila Nova,Sim,4,Não,Simulado para projeto acadêmico
+AG-0175,2025-05-14,2025-05,Quarta-feira,19:00,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Dinheiro,CLI-005,Isabella Marques,55+,Industrial,Não,5,Não,Simulado para projeto acadêmico
+AG-0156,2025-05-14,2025-05,Quarta-feira,19:30,Jean Santana,Relaxamento,Tratamento,45,20,0,20,Concluído,Pix,CLI-044,Adilson Bezerra,45-54,São José,Não,4,Não,Simulado para projeto acadêmico
+AG-0178,2025-05-15,2025-05,Quinta-feira,15:00,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Cartão de crédito,CLI-120,Guilherme de Oliveira Vezaro,55+,Vila Nova,Sim,4,Não,Simulado para projeto acadêmico
+AG-0187,2025-05-17,2025-05,Sábado,16:30,Jean Santana,Cabelo + barba na máquina,Combo,45,40,5,35,Concluído,Pix,CLI-005,Isabella Marques,55+,Industrial,Não,5,Não,Simulado para projeto acadêmico
+AG-0173,2025-05-18,2025-05,Domingo,15:45,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Cartão de crédito,CLI-092,Joao Vitor,25-34,Vila Nova,Sim,4,Não,Simulado para projeto acadêmico
+AG-0181,2025-05-18,2025-05,Domingo,17:00,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Pix,CLI-069,Jailson Silva,45-54,Jardim América,Não,,Não,Simulado para projeto acadêmico
+AG-0180,2025-05-20,2025-05,Terça-feira,10:00,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Pix,CLI-099,Eduardo Oenninng,45-54,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0161,2025-05-20,2025-05,Terça-feira,11:45,Jean Santana,Cabelo e barba,Combo,60,60,5,55,Concluído,Dinheiro,CLI-076,marinaldo ferreira,18-24,Jardim América,Sim,,Não,Simulado para projeto acadêmico
+AG-0168,2025-05-20,2025-05,Terça-feira,14:45,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Dinheiro,CLI-069,Jailson Silva,45-54,Jardim América,Não,5,Não,Simulado para projeto acadêmico
+AG-0159,2025-05-20,2025-05,Terça-feira,16:00,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Cartão de débito,CLI-023,Bruno Felix,35-44,São José,Não,5,Não,Simulado para projeto acadêmico
+AG-0166,2025-05-20,2025-05,Terça-feira,17:15,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Cartão de débito,CLI-026,SilvaNey,18-24,Industrial,Não,5,Não,Simulado para projeto acadêmico
+AG-0182,2025-05-21,2025-05,Quarta-feira,15:00,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Cartão de crédito,CLI-025,Canto dos Tênis,55+,Santa Rosa,Sim,5,Não,Simulado para projeto acadêmico
+AG-0157,2025-05-23,2025-05,Sexta-feira,16:00,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Dinheiro,CLI-007,Rodrigo Oliveira,25-34,Bela Vista,Sim,,Não,Simulado para projeto acadêmico
+AG-0158,2025-05-24,2025-05,Sábado,11:15,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Cartão de crédito,CLI-114,Jeferson Santos,45-54,São José,Não,4,Não,Simulado para projeto acadêmico
+AG-0171,2025-05-25,2025-05,Domingo,17:00,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Dinheiro,CLI-005,Isabella Marques,55+,Industrial,Não,5,Não,Simulado para projeto acadêmico
+AG-0160,2025-05-25,2025-05,Domingo,20:15,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Confirmado,Dinheiro,CLI-016,Gerson Samuel Teixeira de Sousa,18-24,São José,Sim,,Não,Simulado para projeto acadêmico
+AG-0186,2025-05-27,2025-05,Terça-feira,13:00,Jean Santana,Hidratação,Tratamento,30,15,0,0,Cancelado,,CLI-002,Felipe Borges,25-34,São José,Não,,Não,Simulado para projeto acadêmico
+AG-0162,2025-05-27,2025-05,Terça-feira,16:00,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Dinheiro,CLI-108,Ander Clash,35-44,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0202,2025-06-01,2025-06,Domingo,13:15,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Pix,CLI-022,Evandro Magalhães,25-34,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0209,2025-06-01,2025-06,Domingo,13:30,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Cartão de débito,CLI-006,Vinicius Brito,18-24,Jardim América,Não,5,Não,Simulado para projeto acadêmico
+AG-0219,2025-06-03,2025-06,Terça-feira,15:00,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Cartão de débito,CLI-005,Isabella Marques,55+,Industrial,Não,4,Não,Simulado para projeto acadêmico
+AG-0206,2025-06-03,2025-06,Terça-feira,18:00,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Cartão de crédito,CLI-021,_edux.duh_,18-24,Bela Vista,Não,4,Não,Simulado para projeto acadêmico
+AG-0193,2025-06-03,2025-06,Terça-feira,19:30,Jean Santana,Relaxamento,Tratamento,45,20,0,0,No-show,,CLI-098,Fabio Arruda,35-44,Bela Vista,Não,,Sim,Simulado para projeto acadêmico
+AG-0215,2025-06-04,2025-06,Quarta-feira,15:30,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Pix,CLI-069,Jailson Silva,45-54,Jardim América,Não,5,Não,Simulado para projeto acadêmico
+AG-0208,2025-06-04,2025-06,Quarta-feira,16:15,Jean Santana,Pezinho,Acabamento,15,10,0,10,Confirmado,Dinheiro,CLI-113,José Eduardo,35-44,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0205,2025-06-04,2025-06,Quarta-feira,16:30,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Pix,CLI-125,raffa,55+,Jardim América,Não,5,Não,Simulado para projeto acadêmico
+AG-0220,2025-06-05,2025-06,Quinta-feira,15:15,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Cartão de débito,CLI-088,DIOGO D LIMA,35-44,Santa Rosa,Sim,,Não,Simulado para projeto acadêmico
+AG-0212,2025-06-06,2025-06,Sexta-feira,10:00,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Pix,CLI-124,Diego Gonçalves,45-54,Industrial,Sim,5,Não,Simulado para projeto acadêmico
+AG-0203,2025-06-07,2025-06,Sábado,15:30,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Pix,CLI-018,Wellington Souza,35-44,Santa Rosa,Não,5,Não,Simulado para projeto acadêmico
+AG-0213,2025-06-07,2025-06,Sábado,19:30,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Pix,CLI-108,Ander Clash,35-44,Centro,Não,5,Não,Simulado para projeto acadêmico
+AG-0210,2025-06-08,2025-06,Domingo,08:00,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Cartão de débito,CLI-044,Adilson Bezerra,45-54,São José,Não,5,Não,Simulado para projeto acadêmico
+AG-0217,2025-06-10,2025-06,Terça-feira,09:45,Jean Santana,Hidratação,Tratamento,30,15,5,10,Concluído,Cartão de débito,CLI-012,Nicolas Amaral,25-34,Industrial,Não,5,Não,Simulado para projeto acadêmico
+AG-0201,2025-06-11,2025-06,Quarta-feira,17:15,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Cartão de crédito,CLI-023,Bruno Felix,35-44,São José,Não,5,Não,Simulado para projeto acadêmico
+AG-0197,2025-06-12,2025-06,Quinta-feira,20:00,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Cartão de débito,CLI-126,Audo Alexander,18-24,Bela Vista,Não,5,Não,Simulado para projeto acadêmico
+AG-0200,2025-06-15,2025-06,Domingo,11:45,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,0,Cancelado,,CLI-083,Luiz Gustavo Araújo Firmino,35-44,Jardim América,Não,,Não,Simulado para projeto acadêmico
+AG-0211,2025-06-16,2025-06,Segunda-feira,17:15,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Confirmado,Dinheiro,CLI-086,Kauã Moura,18-24,São José,Não,,Não,Simulado para projeto acadêmico
+AG-0192,2025-06-17,2025-06,Terça-feira,15:00,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Pix,CLI-024,Brenno Silva,45-54,Centro,Não,5,Não,Simulado para projeto acadêmico
+AG-0198,2025-06-17,2025-06,Terça-feira,20:15,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Cartão de crédito,CLI-013,Cleison Teixeira,35-44,Jardim América,Sim,,Não,Simulado para projeto acadêmico
+AG-0204,2025-06-18,2025-06,Quarta-feira,15:00,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Cartão de crédito,CLI-094,miqueias santana,45-54,Centro,Sim,5,Não,Simulado para projeto acadêmico
+AG-0196,2025-06-21,2025-06,Sábado,08:00,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Cartão de débito,CLI-010,Saulo Mendes de Melo,55+,Centro,Sim,,Não,Simulado para projeto acadêmico
+AG-0195,2025-06-21,2025-06,Sábado,11:00,Jean Santana,Barba,Barba,30,30,5,25,Concluído,Pix,CLI-031,Henri Silva,18-24,Centro,Sim,5,Não,Simulado para projeto acadêmico
+AG-0214,2025-06-23,2025-06,Segunda-feira,09:30,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Pix,CLI-070,Jonatan Ribeiro,55+,Bela Vista,Sim,5,Não,Simulado para projeto acadêmico
+AG-0216,2025-06-23,2025-06,Segunda-feira,20:00,Jean Santana,Barba,Barba,30,30,0,30,Concluído,Cartão de débito,CLI-070,Jonatan Ribeiro,55+,Bela Vista,Sim,4,Não,Simulado para projeto acadêmico
+AG-0218,2025-06-24,2025-06,Terça-feira,11:30,Jean Santana,Hidratação,Tratamento,30,15,0,0,Cancelado,,CLI-084,Josué Santos,45-54,Bela Vista,Não,,Não,Simulado para projeto acadêmico
+AG-0190,2025-06-24,2025-06,Terça-feira,14:30,Jean Santana,Hidratação,Tratamento,30,15,5,10,Concluído,Dinheiro,CLI-083,Luiz Gustavo Araújo Firmino,35-44,Jardim América,Não,5,Não,Simulado para projeto acadêmico
+AG-0199,2025-06-25,2025-06,Quarta-feira,17:00,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Cartão de débito,CLI-006,Vinicius Brito,18-24,Jardim América,Não,5,Não,Simulado para projeto acadêmico
+AG-0207,2025-06-26,2025-06,Quinta-feira,09:00,Jean Santana,Barba,Barba,30,30,0,30,Concluído,Pix,CLI-038,Ícaro Rian,35-44,Centro,Não,5,Não,Simulado para projeto acadêmico
+AG-0194,2025-06-26,2025-06,Quinta-feira,15:00,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Cartão de débito,CLI-022,Evandro Magalhães,25-34,Vila Nova,Sim,4,Não,Simulado para projeto acadêmico
+AG-0191,2025-06-27,2025-06,Sexta-feira,19:00,Jean Santana,Cabelo,Cabelo,35,35,0,35,Concluído,Dinheiro,CLI-116,Ryan alexandre,18-24,Santa Rosa,Não,5,Não,Simulado para projeto acadêmico
+AG-0226,2025-07-01,2025-07,Terça-feira,13:30,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Confirmado,Cartão de crédito,CLI-094,miqueias santana,45-54,Centro,Sim,,Não,Simulado para projeto acadêmico
+AG-0233,2025-07-02,2025-07,Quarta-feira,11:45,Jean Santana,Cabelo,Cabelo,35,35,0,35,Concluído,Pix,CLI-021,_edux.duh_,18-24,Bela Vista,Não,5,Não,Simulado para projeto acadêmico
+AG-0249,2025-07-02,2025-07,Quarta-feira,20:00,Jean Santana,Barba,Barba,30,30,0,30,Concluído,Pix,CLI-009,Guilherme Pereira,45-54,São José,Não,,Não,Simulado para projeto acadêmico
+AG-0237,2025-07-03,2025-07,Quinta-feira,18:30,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Cartão de crédito,CLI-010,Saulo Mendes de Melo,55+,Centro,Sim,5,Não,Simulado para projeto acadêmico
+AG-0240,2025-07-06,2025-07,Domingo,09:00,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Cartão de débito,CLI-032,Levy silva,25-34,Santa Rosa,Não,5,Não,Simulado para projeto acadêmico
+AG-0255,2025-07-06,2025-07,Domingo,09:00,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Cartão de débito,CLI-020,Marcio Silva,55+,Jardim América,Não,5,Não,Simulado para projeto acadêmico
+AG-0231,2025-07-06,2025-07,Domingo,10:30,Jean Santana,Pezinho,Acabamento,15,10,0,10,Confirmado,Dinheiro,CLI-037,Maik araujo de souza,25-34,São José,Sim,,Não,Simulado para projeto acadêmico
+AG-0227,2025-07-08,2025-07,Terça-feira,11:00,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Pix,CLI-050,Bruno Santos,55+,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0223,2025-07-08,2025-07,Terça-feira,11:15,Jean Santana,Barba,Barba,30,30,0,0,No-show,,CLI-100,进多来现,55+,São José,Sim,,Sim,Simulado para projeto acadêmico
+AG-0254,2025-07-08,2025-07,Terça-feira,20:00,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Dinheiro,CLI-058,Mateus Teixeira,35-44,São José,Sim,5,Não,Simulado para projeto acadêmico
+AG-0239,2025-07-09,2025-07,Quarta-feira,08:00,Jean Santana,Barba,Barba,30,30,0,30,Concluído,Cartão de débito,CLI-057,Matheus Dias,25-34,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0241,2025-07-09,2025-07,Quarta-feira,11:15,Jean Santana,Pezinho,Acabamento,15,10,0,10,Confirmado,Dinheiro,CLI-101,Mikaelly Correia,18-24,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0242,2025-07-09,2025-07,Quarta-feira,16:00,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Cartão de débito,CLI-075,William Cruz,55+,Industrial,Não,5,Não,Simulado para projeto acadêmico
+AG-0252,2025-07-09,2025-07,Quarta-feira,16:15,Jean Santana,Pezinho,Acabamento,15,10,0,0,No-show,,CLI-062,Milton Júnior correia dos Santos Júnior,25-34,Jardim América,Não,,Sim,Simulado para projeto acadêmico
+AG-0222,2025-07-09,2025-07,Quarta-feira,19:00,Jean Santana,Cabelo,Cabelo,35,35,0,35,Concluído,Dinheiro,CLI-056,Diego Evo,18-24,Bela Vista,Não,4,Não,Simulado para projeto acadêmico
+AG-0251,2025-07-11,2025-07,Sexta-feira,17:30,Jean Santana,Hidratação,Tratamento,30,15,0,0,Cancelado,,CLI-067,Miguel Angel Larrazabal valdez,25-34,Santa Rosa,Sim,,Não,Simulado para projeto acadêmico
+AG-0229,2025-07-12,2025-07,Sábado,20:00,Jean Santana,Barba,Barba,30,30,0,30,Concluído,Cartão de crédito,CLI-050,Bruno Santos,55+,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0243,2025-07-15,2025-07,Terça-feira,09:00,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Confirmado,Pix,CLI-028,João Pedro Marques segundo jardim,35-44,Bela Vista,Sim,,Não,Simulado para projeto acadêmico
+AG-0250,2025-07-15,2025-07,Terça-feira,15:00,Jean Santana,Pezinho,Acabamento,15,10,0,10,Confirmado,Pix,CLI-016,Gerson Samuel Teixeira de Sousa,18-24,São José,Sim,,Não,Simulado para projeto acadêmico
+AG-0247,2025-07-15,2025-07,Terça-feira,18:00,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Pix,CLI-069,Jailson Silva,45-54,Jardim América,Não,,Não,Simulado para projeto acadêmico
+AG-0234,2025-07-15,2025-07,Terça-feira,19:00,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Cartão de crédito,CLI-029,Igor Nakao,45-54,Vila Nova,Sim,4,Não,Simulado para projeto acadêmico
+AG-0257,2025-07-16,2025-07,Quarta-feira,13:45,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Pix,CLI-116,Ryan alexandre,18-24,Santa Rosa,Não,4,Não,Simulado para projeto acadêmico
+AG-0246,2025-07-17,2025-07,Quinta-feira,16:45,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Confirmado,Cartão de crédito,CLI-088,DIOGO D LIMA,35-44,Santa Rosa,Sim,,Não,Simulado para projeto acadêmico
+AG-0244,2025-07-18,2025-07,Sexta-feira,20:00,Jean Santana,Relaxamento,Tratamento,45,20,0,0,Cancelado,,CLI-084,Josué Santos,45-54,Bela Vista,Não,,Não,Simulado para projeto acadêmico
+AG-0235,2025-07-19,2025-07,Sábado,14:00,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Dinheiro,CLI-049,leonardo lima,45-54,Bela Vista,Sim,5,Não,Simulado para projeto acadêmico
+AG-0232,2025-07-19,2025-07,Sábado,19:30,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Cartão de crédito,CLI-060,Gabriel de Paula Oliveira,55+,Santa Rosa,Não,5,Não,Simulado para projeto acadêmico
+AG-0230,2025-07-20,2025-07,Domingo,15:15,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Cartão de crédito,CLI-100,进多来现,55+,São José,Sim,4,Não,Simulado para projeto acadêmico
+AG-0225,2025-07-21,2025-07,Segunda-feira,09:00,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Cartão de crédito,CLI-116,Ryan alexandre,18-24,Santa Rosa,Não,5,Não,Simulado para projeto acadêmico
+AG-0228,2025-07-21,2025-07,Segunda-feira,14:30,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Cartão de crédito,CLI-072,Garachi,25-34,São José,Não,4,Não,Simulado para projeto acadêmico
+AG-0238,2025-07-21,2025-07,Segunda-feira,18:45,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Cartão de crédito,CLI-018,Wellington Souza,35-44,Santa Rosa,Não,5,Não,Simulado para projeto acadêmico
+AG-0236,2025-07-21,2025-07,Segunda-feira,19:00,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Dinheiro,CLI-024,Brenno Silva,45-54,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0248,2025-07-23,2025-07,Quarta-feira,17:00,Jean Santana,Cabelo,Cabelo,35,35,0,35,Concluído,Pix,CLI-018,Wellington Souza,35-44,Santa Rosa,Não,,Não,Simulado para projeto acadêmico
+AG-0253,2025-07-24,2025-07,Quinta-feira,08:00,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Confirmado,Pix,CLI-129,Fco Mauríciø Mendes 8D,45-54,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0245,2025-07-24,2025-07,Quinta-feira,11:15,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Cartão de crédito,CLI-017,Ronaldo de Souza,25-34,Centro,Não,4,Não,Simulado para projeto acadêmico
+AG-0221,2025-07-24,2025-07,Quinta-feira,13:45,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Cartão de crédito,CLI-115,dudu,55+,Centro,Sim,5,Não,Simulado para projeto acadêmico
+AG-0224,2025-07-26,2025-07,Sábado,15:00,Jean Santana,Relaxamento,Tratamento,45,20,0,20,Concluído,Pix,CLI-064,Davi Ferreira,45-54,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0256,2025-07-27,2025-07,Domingo,15:00,Jean Santana,Hidratação,Tratamento,30,15,5,10,Concluído,Cartão de crédito,CLI-032,Levy silva,25-34,Santa Rosa,Não,4,Não,Simulado para projeto acadêmico
+AG-0264,2025-08-01,2025-08,Sexta-feira,16:00,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Dinheiro,CLI-117,Cleilson -Tv,25-34,Industrial,Não,5,Não,Simulado para projeto acadêmico
+AG-0269,2025-08-01,2025-08,Sexta-feira,16:00,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Cartão de débito,CLI-062,Milton Júnior correia dos Santos Júnior,25-34,Jardim América,Não,5,Não,Simulado para projeto acadêmico
+AG-0291,2025-08-02,2025-08,Sábado,15:30,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Cartão de crédito,CLI-063,Brayan De Jesus,35-44,Bela Vista,Não,5,Não,Simulado para projeto acadêmico
+AG-0277,2025-08-02,2025-08,Sábado,19:45,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Cartão de crédito,CLI-061,Dr Francisco Teixeira,18-24,Industrial,Sim,5,Não,Simulado para projeto acadêmico
+AG-0267,2025-08-04,2025-08,Segunda-feira,08:00,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Pix,CLI-101,Mikaelly Correia,18-24,Centro,Não,5,Não,Simulado para projeto acadêmico
+AG-0258,2025-08-05,2025-08,Terça-feira,16:45,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,0,No-show,,CLI-012,Nicolas Amaral,25-34,Industrial,Não,,Sim,Simulado para projeto acadêmico
+AG-0292,2025-08-05,2025-08,Terça-feira,19:45,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Confirmado,Cartão de débito,CLI-092,Joao Vitor,25-34,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0275,2025-08-07,2025-08,Quinta-feira,11:45,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Cartão de débito,CLI-096,Édipo Santos Rocha,18-24,Industrial,Não,5,Não,Simulado para projeto acadêmico
+AG-0261,2025-08-07,2025-08,Quinta-feira,16:30,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Dinheiro,CLI-068,Joao 1567 Sontas,35-44,Industrial,Não,4,Não,Simulado para projeto acadêmico
+AG-0260,2025-08-07,2025-08,Quinta-feira,17:15,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Pix,CLI-080,Rafael e Bruno games,55+,Centro,Não,4,Não,Simulado para projeto acadêmico
+AG-0283,2025-08-08,2025-08,Sexta-feira,10:00,Jean Santana,Cabelo,Cabelo,35,35,5,30,Concluído,Dinheiro,CLI-083,Luiz Gustavo Araújo Firmino,35-44,Jardim América,Não,5,Não,Simulado para projeto acadêmico
+AG-0271,2025-08-09,2025-08,Sábado,20:00,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Pix,CLI-064,Davi Ferreira,45-54,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0280,2025-08-10,2025-08,Domingo,15:45,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Cartão de débito,CLI-062,Milton Júnior correia dos Santos Júnior,25-34,Jardim América,Não,5,Não,Simulado para projeto acadêmico
+AG-0285,2025-08-11,2025-08,Segunda-feira,11:00,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Pix,CLI-129,Fco Mauríciø Mendes 8D,45-54,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0286,2025-08-13,2025-08,Quarta-feira,19:00,Jean Santana,Hidratação,Tratamento,30,15,0,15,Confirmado,Cartão de crédito,CLI-095,Cassio Brito,55+,Santa Rosa,Não,,Não,Simulado para projeto acadêmico
+AG-0266,2025-08-14,2025-08,Quinta-feira,19:00,Jean Santana,Luzes,Coloração,90,35,5,30,Concluído,Cartão de crédito,CLI-001,Rodrigo Passos,18-24,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0288,2025-08-15,2025-08,Sexta-feira,18:00,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Dinheiro,CLI-059,alexander gonzalez,45-54,Centro,Não,4,Não,Simulado para projeto acadêmico
+AG-0265,2025-08-16,2025-08,Sábado,15:30,Jean Santana,Relaxamento,Tratamento,45,20,0,20,Concluído,Dinheiro,CLI-025,Canto dos Tênis,55+,Santa Rosa,Sim,,Não,Simulado para projeto acadêmico
+AG-0284,2025-08-16,2025-08,Sábado,17:00,Jean Santana,Relaxamento,Tratamento,45,20,0,20,Concluído,Dinheiro,CLI-123,José Breno,35-44,Santa Rosa,Não,4,Não,Simulado para projeto acadêmico
+AG-0268,2025-08-16,2025-08,Sábado,19:00,Jean Santana,Cabelo + barba na máquina,Combo,45,40,5,35,Concluído,Pix,CLI-118,Fernando cunha Sanches,35-44,Jardim América,Sim,5,Não,Simulado para projeto acadêmico
+AG-0262,2025-08-16,2025-08,Sábado,20:15,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Dinheiro,CLI-056,Diego Evo,18-24,Bela Vista,Não,4,Não,Simulado para projeto acadêmico
+AG-0287,2025-08-17,2025-08,Domingo,19:30,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,0,No-show,,CLI-035,cage //,55+,Bela Vista,Não,,Sim,Simulado para projeto acadêmico
+AG-0276,2025-08-18,2025-08,Segunda-feira,16:15,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Pix,CLI-054,Carlos Henrique Henrique,45-54,Industrial,Não,5,Não,Simulado para projeto acadêmico
+AG-0263,2025-08-19,2025-08,Terça-feira,19:00,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Cartão de débito,CLI-099,Eduardo Oenninng,45-54,Vila Nova,Sim,4,Não,Simulado para projeto acadêmico
+AG-0272,2025-08-22,2025-08,Sexta-feira,20:45,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Dinheiro,CLI-116,Ryan alexandre,18-24,Santa Rosa,Não,5,Não,Simulado para projeto acadêmico
+AG-0289,2025-08-23,2025-08,Sábado,16:45,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Pix,CLI-004,Erick Davalos,45-54,Santa Rosa,Sim,5,Não,Simulado para projeto acadêmico
+AG-0273,2025-08-23,2025-08,Sábado,17:00,Jean Santana,Relaxamento,Tratamento,45,20,0,20,Concluído,Dinheiro,CLI-128,Lucas Matheus,35-44,São José,Não,5,Não,Simulado para projeto acadêmico
+AG-0282,2025-08-23,2025-08,Sábado,17:30,Jean Santana,Barba,Barba,30,30,0,0,Cancelado,,CLI-026,SilvaNey,18-24,Industrial,Não,,Não,Simulado para projeto acadêmico
+AG-0279,2025-08-24,2025-08,Domingo,15:30,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Dinheiro,CLI-030,Álvaro Gabriel,55+,São José,Não,5,Não,Simulado para projeto acadêmico
+AG-0270,2025-08-25,2025-08,Segunda-feira,13:30,Jean Santana,Cabelo,Cabelo,35,35,0,35,Concluído,Cartão de débito,CLI-085,ryan gregorio,55+,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0274,2025-08-25,2025-08,Segunda-feira,18:45,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Confirmado,Dinheiro,CLI-003,Juniior Bitencourtt,35-44,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0259,2025-08-25,2025-08,Segunda-feira,19:15,Jean Santana,Pezinho,Acabamento,15,10,0,0,Cancelado,,CLI-116,Ryan alexandre,18-24,Santa Rosa,Não,,Não,Simulado para projeto acadêmico
+AG-0278,2025-08-27,2025-08,Quarta-feira,10:30,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Cartão de crédito,CLI-099,Eduardo Oenninng,45-54,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0281,2025-08-27,2025-08,Quarta-feira,19:00,Jean Santana,Cabelo + luzes,Coloração,120,60,0,0,Cancelado,,CLI-055,marcio soneca,55+,Jardim América,Sim,,Não,Simulado para projeto acadêmico
+AG-0290,2025-08-27,2025-08,Quarta-feira,20:15,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Pix,CLI-027,Fernando Miguel Larrazabal valdez,25-34,Jardim América,Não,5,Não,Simulado para projeto acadêmico
+AG-0315,2025-09-01,2025-09,Segunda-feira,11:15,Jean Santana,Barba,Barba,30,30,0,30,Concluído,Dinheiro,CLI-127,Rodrigo Davi,25-34,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0306,2025-09-01,2025-09,Segunda-feira,18:00,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Confirmado,Cartão de débito,CLI-077,Elenildo Ferreira,25-34,Bela Vista,Não,,Não,Simulado para projeto acadêmico
+AG-0317,2025-09-02,2025-09,Terça-feira,14:30,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Cartão de crédito,CLI-076,marinaldo ferreira,18-24,Jardim América,Sim,,Não,Simulado para projeto acadêmico
+AG-0313,2025-09-02,2025-09,Terça-feira,17:00,Jean Santana,Luzes,Coloração,90,35,0,0,Cancelado,,CLI-092,Joao Vitor,25-34,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0299,2025-09-03,2025-09,Quarta-feira,09:00,Jean Santana,Cabelo + luzes,Coloração,120,60,0,0,Cancelado,,CLI-012,Nicolas Amaral,25-34,Industrial,Não,,Não,Simulado para projeto acadêmico
+AG-0297,2025-09-04,2025-09,Quinta-feira,10:00,Jean Santana,Relaxamento,Tratamento,45,20,0,0,Cancelado,,CLI-037,Maik araujo de souza,25-34,São José,Sim,,Não,Simulado para projeto acadêmico
+AG-0295,2025-09-04,2025-09,Quinta-feira,16:00,Jean Santana,Sombrancelha,Acabamento,15,10,0,0,Cancelado,,CLI-025,Canto dos Tênis,55+,Santa Rosa,Sim,,Não,Simulado para projeto acadêmico
+AG-0325,2025-09-04,2025-09,Quinta-feira,16:45,Jean Santana,Relaxamento,Tratamento,45,20,0,20,Concluído,Cartão de crédito,CLI-055,marcio soneca,55+,Jardim América,Sim,5,Não,Simulado para projeto acadêmico
+AG-0304,2025-09-05,2025-09,Sexta-feira,10:00,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Pix,CLI-099,Eduardo Oenninng,45-54,Vila Nova,Sim,4,Não,Simulado para projeto acadêmico
+AG-0311,2025-09-05,2025-09,Sexta-feira,20:15,Jean Santana,Relaxamento,Tratamento,45,20,0,0,Cancelado,,CLI-013,Cleison Teixeira,35-44,Jardim América,Sim,,Não,Simulado para projeto acadêmico
+AG-0301,2025-09-08,2025-09,Segunda-feira,10:45,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Pix,CLI-020,Marcio Silva,55+,Jardim América,Não,4,Não,Simulado para projeto acadêmico
+AG-0323,2025-09-09,2025-09,Terça-feira,10:00,Jean Santana,Cabelo e barba,Combo,60,60,0,0,No-show,,CLI-001,Rodrigo Passos,18-24,Vila Nova,Sim,,Sim,Simulado para projeto acadêmico
+AG-0300,2025-09-09,2025-09,Terça-feira,13:00,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Cartão de débito,CLI-034,Rafael Silva,45-54,Jardim América,Sim,,Não,Simulado para projeto acadêmico
+AG-0310,2025-09-10,2025-09,Quarta-feira,15:00,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Pix,CLI-084,Josué Santos,45-54,Bela Vista,Não,5,Não,Simulado para projeto acadêmico
+AG-0309,2025-09-10,2025-09,Quarta-feira,19:45,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Cartão de débito,CLI-123,José Breno,35-44,Santa Rosa,Não,5,Não,Simulado para projeto acadêmico
+AG-0305,2025-09-11,2025-09,Quinta-feira,10:00,Jean Santana,Relaxamento,Tratamento,45,20,0,0,Cancelado,,CLI-106,BRAYAN gameplay,18-24,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0312,2025-09-11,2025-09,Quinta-feira,10:30,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Dinheiro,CLI-122,Isaac lima,25-34,Centro,Não,5,Não,Simulado para projeto acadêmico
+AG-0294,2025-09-11,2025-09,Quinta-feira,14:45,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Pix,CLI-006,Vinicius Brito,18-24,Jardim América,Não,,Não,Simulado para projeto acadêmico
+AG-0316,2025-09-11,2025-09,Quinta-feira,18:30,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Cartão de crédito,CLI-129,Fco Mauríciø Mendes 8D,45-54,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0318,2025-09-11,2025-09,Quinta-feira,20:30,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Pix,CLI-009,Guilherme Pereira,45-54,São José,Não,5,Não,Simulado para projeto acadêmico
+AG-0320,2025-09-12,2025-09,Sexta-feira,19:30,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Dinheiro,CLI-067,Miguel Angel Larrazabal valdez,25-34,Santa Rosa,Sim,4,Não,Simulado para projeto acadêmico
+AG-0319,2025-09-13,2025-09,Sábado,10:00,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Dinheiro,CLI-039,Joao filipe,45-54,Santa Rosa,Não,4,Não,Simulado para projeto acadêmico
+AG-0326,2025-09-14,2025-09,Domingo,08:00,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Pix,CLI-078,Mario Rodrigues,35-44,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0329,2025-09-15,2025-09,Segunda-feira,17:00,Jean Santana,Pezinho,Acabamento,15,10,0,0,Cancelado,,CLI-031,Henri Silva,18-24,Centro,Sim,,Não,Simulado para projeto acadêmico
+AG-0314,2025-09-18,2025-09,Quinta-feira,18:45,Jean Santana,Barba,Barba,30,30,0,30,Concluído,Cartão de débito,CLI-081,Eduardo Levi,18-24,Santa Rosa,Não,5,Não,Simulado para projeto acadêmico
+AG-0322,2025-09-19,2025-09,Sexta-feira,08:45,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Pix,CLI-017,Ronaldo de Souza,25-34,Centro,Não,4,Não,Simulado para projeto acadêmico
+AG-0298,2025-09-19,2025-09,Sexta-feira,16:00,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Pix,CLI-075,William Cruz,55+,Industrial,Não,4,Não,Simulado para projeto acadêmico
+AG-0302,2025-09-20,2025-09,Sábado,17:00,Jean Santana,Hidratação,Tratamento,30,15,0,15,Confirmado,Dinheiro,CLI-104,Luis Larrazabal,45-54,Jardim América,Não,,Não,Simulado para projeto acadêmico
+AG-0327,2025-09-22,2025-09,Segunda-feira,19:45,Jean Santana,Cabelo + luzes,Coloração,120,60,5,55,Concluído,Cartão de débito,CLI-079,kaue Lohan,45-54,São José,Sim,4,Não,Simulado para projeto acadêmico
+AG-0308,2025-09-25,2025-09,Quinta-feira,10:30,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Cartão de crédito,CLI-051,Maycon Bispo,18-24,São José,Não,,Não,Simulado para projeto acadêmico
+AG-0328,2025-09-26,2025-09,Sexta-feira,08:45,Jean Santana,Barba,Barba,30,30,0,30,Concluído,Cartão de débito,CLI-041,Natan Kovatch,18-24,Jardim América,Não,4,Não,Simulado para projeto acadêmico
+AG-0307,2025-09-26,2025-09,Sexta-feira,09:00,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Confirmado,Cartão de crédito,CLI-129,Fco Mauríciø Mendes 8D,45-54,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0296,2025-09-26,2025-09,Sexta-feira,14:00,Jean Santana,Hidratação,Tratamento,30,15,0,0,Cancelado,,CLI-109,Damares Viviane,45-54,Santa Rosa,Sim,,Não,Simulado para projeto acadêmico
+AG-0303,2025-09-27,2025-09,Sábado,10:15,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Cartão de débito,CLI-088,DIOGO D LIMA,35-44,Santa Rosa,Sim,5,Não,Simulado para projeto acadêmico
+AG-0293,2025-09-27,2025-09,Sábado,16:15,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Cartão de débito,CLI-122,Isaac lima,25-34,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0321,2025-09-27,2025-09,Sábado,17:30,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Dinheiro,CLI-038,Ícaro Rian,35-44,Centro,Não,5,Não,Simulado para projeto acadêmico
+AG-0324,2025-09-27,2025-09,Sábado,19:00,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Pix,CLI-048,Marcos Eduardo Tavares costa,35-44,Jardim América,Não,5,Não,Simulado para projeto acadêmico
+AG-0343,2025-10-01,2025-10,Quarta-feira,10:15,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Dinheiro,CLI-039,Joao filipe,45-54,Santa Rosa,Não,4,Não,Simulado para projeto acadêmico
+AG-0355,2025-10-01,2025-10,Quarta-feira,11:00,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Dinheiro,CLI-013,Cleison Teixeira,35-44,Jardim América,Sim,,Não,Simulado para projeto acadêmico
+AG-0345,2025-10-03,2025-10,Sexta-feira,13:00,Jean Santana,Luzes,Coloração,90,35,0,0,No-show,,CLI-017,Ronaldo de Souza,25-34,Centro,Não,,Sim,Simulado para projeto acadêmico
+AG-0331,2025-10-03,2025-10,Sexta-feira,14:45,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Cartão de débito,CLI-022,Evandro Magalhães,25-34,Vila Nova,Sim,4,Não,Simulado para projeto acadêmico
+AG-0335,2025-10-04,2025-10,Sábado,10:45,Jean Santana,Sombrancelha,Acabamento,15,10,0,0,Cancelado,,CLI-110,Jhonatan de barros storini,55+,Industrial,Não,,Não,Simulado para projeto acadêmico
+AG-0353,2025-10-05,2025-10,Domingo,15:00,Jean Santana,Luzes,Coloração,90,35,0,35,Confirmado,Cartão de débito,CLI-002,Felipe Borges,25-34,São José,Não,,Não,Simulado para projeto acadêmico
+AG-0357,2025-10-05,2025-10,Domingo,20:30,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Cartão de débito,CLI-126,Audo Alexander,18-24,Bela Vista,Não,,Não,Simulado para projeto acadêmico
+AG-0334,2025-10-06,2025-10,Segunda-feira,10:00,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Cartão de débito,CLI-110,Jhonatan de barros storini,55+,Industrial,Não,4,Não,Simulado para projeto acadêmico
+AG-0338,2025-10-06,2025-10,Segunda-feira,14:00,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Pix,CLI-122,Isaac lima,25-34,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0354,2025-10-07,2025-10,Terça-feira,08:30,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Dinheiro,CLI-079,kaue Lohan,45-54,São José,Sim,5,Não,Simulado para projeto acadêmico
+AG-0332,2025-10-07,2025-10,Terça-feira,13:45,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Cartão de débito,CLI-030,Álvaro Gabriel,55+,São José,Não,,Não,Simulado para projeto acadêmico
+AG-0346,2025-10-10,2025-10,Sexta-feira,20:15,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Cartão de débito,CLI-010,Saulo Mendes de Melo,55+,Centro,Sim,4,Não,Simulado para projeto acadêmico
+AG-0337,2025-10-11,2025-10,Sábado,10:00,Jean Santana,Cabelo e barba,Combo,60,60,0,0,Cancelado,,CLI-017,Ronaldo de Souza,25-34,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0363,2025-10-12,2025-10,Domingo,09:45,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Cartão de crédito,CLI-086,Kauã Moura,18-24,São José,Não,4,Não,Simulado para projeto acadêmico
+AG-0365,2025-10-13,2025-10,Segunda-feira,09:45,Jean Santana,Cabelo + luzes,Coloração,120,60,5,55,Concluído,Cartão de crédito,CLI-105,Rony Brayan Santana Maia,55+,Bela Vista,Não,,Não,Simulado para projeto acadêmico
+AG-0344,2025-10-13,2025-10,Segunda-feira,16:00,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,0,Cancelado,,CLI-028,João Pedro Marques segundo jardim,35-44,Bela Vista,Sim,,Não,Simulado para projeto acadêmico
+AG-0340,2025-10-14,2025-10,Terça-feira,08:00,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Confirmado,Cartão de débito,CLI-086,Kauã Moura,18-24,São José,Não,,Não,Simulado para projeto acadêmico
+AG-0361,2025-10-14,2025-10,Terça-feira,16:00,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Cartão de débito,CLI-078,Mario Rodrigues,35-44,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0349,2025-10-15,2025-10,Quarta-feira,10:45,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Confirmado,Pix,CLI-108,Ander Clash,35-44,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0341,2025-10-16,2025-10,Quinta-feira,16:30,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Dinheiro,CLI-078,Mario Rodrigues,35-44,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0356,2025-10-16,2025-10,Quinta-feira,18:00,Jean Santana,Cabelo,Cabelo,35,35,0,35,Concluído,Cartão de débito,CLI-106,BRAYAN gameplay,18-24,Vila Nova,Sim,4,Não,Simulado para projeto acadêmico
+AG-0339,2025-10-17,2025-10,Sexta-feira,17:30,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Dinheiro,CLI-022,Evandro Magalhães,25-34,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0342,2025-10-18,2025-10,Sábado,14:00,Jean Santana,Hidratação,Tratamento,30,15,5,10,Confirmado,Pix,CLI-096,Édipo Santos Rocha,18-24,Industrial,Não,,Não,Simulado para projeto acadêmico
+AG-0348,2025-10-18,2025-10,Sábado,14:45,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Dinheiro,CLI-064,Davi Ferreira,45-54,Vila Nova,Sim,4,Não,Simulado para projeto acadêmico
+AG-0362,2025-10-18,2025-10,Sábado,15:00,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Cartão de débito,CLI-129,Fco Mauríciø Mendes 8D,45-54,Centro,Não,5,Não,Simulado para projeto acadêmico
+AG-0330,2025-10-18,2025-10,Sábado,17:00,Jean Santana,Relaxamento,Tratamento,45,20,0,20,Concluído,Dinheiro,CLI-094,miqueias santana,45-54,Centro,Sim,5,Não,Simulado para projeto acadêmico
+AG-0360,2025-10-19,2025-10,Domingo,09:15,Jean Santana,Barba,Barba,30,30,0,30,Concluído,Pix,CLI-002,Felipe Borges,25-34,São José,Não,4,Não,Simulado para projeto acadêmico
+AG-0347,2025-10-19,2025-10,Domingo,13:45,Jean Santana,Cabelo e barba,Combo,60,60,0,0,Cancelado,,CLI-048,Marcos Eduardo Tavares costa,35-44,Jardim América,Não,,Não,Simulado para projeto acadêmico
+AG-0351,2025-10-20,2025-10,Segunda-feira,11:15,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Dinheiro,CLI-123,José Breno,35-44,Santa Rosa,Não,5,Não,Simulado para projeto acadêmico
+AG-0358,2025-10-21,2025-10,Terça-feira,11:30,Jean Santana,Cabelo,Cabelo,35,35,0,35,Concluído,Pix,CLI-086,Kauã Moura,18-24,São José,Não,5,Não,Simulado para projeto acadêmico
+AG-0336,2025-10-21,2025-10,Terça-feira,18:00,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Pix,CLI-038,Ícaro Rian,35-44,Centro,Não,5,Não,Simulado para projeto acadêmico
+AG-0333,2025-10-22,2025-10,Quarta-feira,18:00,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Pix,CLI-021,_edux.duh_,18-24,Bela Vista,Não,5,Não,Simulado para projeto acadêmico
+AG-0359,2025-10-24,2025-10,Sexta-feira,08:00,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Cartão de débito,CLI-098,Fabio Arruda,35-44,Bela Vista,Não,4,Não,Simulado para projeto acadêmico
+AG-0364,2025-10-25,2025-10,Sábado,20:00,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Cartão de débito,CLI-082,fre fairi luisandresantos,25-34,Industrial,Sim,5,Não,Simulado para projeto acadêmico
+AG-0352,2025-10-25,2025-10,Sábado,20:30,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Pix,CLI-009,Guilherme Pereira,45-54,São José,Não,4,Não,Simulado para projeto acadêmico
+AG-0350,2025-10-26,2025-10,Domingo,08:00,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Cartão de crédito,CLI-047,Rafael Henrique,25-34,Industrial,Não,,Não,Simulado para projeto acadêmico
+AG-0373,2025-11-01,2025-11,Sábado,18:15,Jean Santana,Luzes,Coloração,90,35,0,0,Cancelado,,CLI-092,Joao Vitor,25-34,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0370,2025-11-04,2025-11,Terça-feira,10:00,Jean Santana,Relaxamento,Tratamento,45,20,0,20,Confirmado,Cartão de débito,CLI-037,Maik araujo de souza,25-34,São José,Sim,,Não,Simulado para projeto acadêmico
+AG-0382,2025-11-04,2025-11,Terça-feira,11:00,Jean Santana,Relaxamento,Tratamento,45,20,0,20,Concluído,Cartão de débito,CLI-026,SilvaNey,18-24,Industrial,Não,5,Não,Simulado para projeto acadêmico
+AG-0383,2025-11-04,2025-11,Terça-feira,15:45,Jean Santana,Relaxamento,Tratamento,45,20,0,20,Concluído,Cartão de débito,CLI-054,Carlos Henrique Henrique,45-54,Industrial,Não,,Não,Simulado para projeto acadêmico
+AG-0402,2025-11-05,2025-11,Quarta-feira,08:00,Jean Santana,Cabelo,Cabelo,35,35,0,35,Confirmado,Pix,CLI-067,Miguel Angel Larrazabal valdez,25-34,Santa Rosa,Sim,,Não,Simulado para projeto acadêmico
+AG-0388,2025-11-05,2025-11,Quarta-feira,10:00,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Pix,CLI-022,Evandro Magalhães,25-34,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0369,2025-11-06,2025-11,Quinta-feira,10:00,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Dinheiro,CLI-078,Mario Rodrigues,35-44,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0380,2025-11-06,2025-11,Quinta-feira,18:45,Jean Santana,Cabelo,Cabelo,35,35,0,35,Concluído,Cartão de débito,CLI-106,BRAYAN gameplay,18-24,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0401,2025-11-08,2025-11,Sábado,16:00,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Confirmado,Dinheiro,CLI-107,Murilo Vicente,25-34,São José,Não,,Não,Simulado para projeto acadêmico
+AG-0404,2025-11-09,2025-11,Domingo,13:30,Jean Santana,Barba,Barba,30,30,0,30,Concluído,Cartão de crédito,CLI-070,Jonatan Ribeiro,55+,Bela Vista,Sim,5,Não,Simulado para projeto acadêmico
+AG-0378,2025-11-09,2025-11,Domingo,15:00,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Cartão de crédito,CLI-043,Gilsinho D.silva,35-44,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0384,2025-11-09,2025-11,Domingo,18:45,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Cartão de débito,CLI-019,Vi Santana,45-54,Industrial,Sim,4,Não,Simulado para projeto acadêmico
+AG-0367,2025-11-11,2025-11,Terça-feira,13:15,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,0,Cancelado,,CLI-019,Vi Santana,45-54,Industrial,Sim,,Não,Simulado para projeto acadêmico
+AG-0400,2025-11-11,2025-11,Terça-feira,15:45,Jean Santana,Barba,Barba,30,30,0,30,Concluído,Cartão de débito,CLI-008,WENDELL LOPES,35-44,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0385,2025-11-11,2025-11,Terça-feira,16:45,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Cartão de crédito,CLI-030,Álvaro Gabriel,55+,São José,Não,5,Não,Simulado para projeto acadêmico
+AG-0381,2025-11-11,2025-11,Terça-feira,19:00,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Dinheiro,CLI-068,Joao 1567 Sontas,35-44,Industrial,Não,5,Não,Simulado para projeto acadêmico
+AG-0377,2025-11-12,2025-11,Quarta-feira,11:00,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Pix,CLI-028,João Pedro Marques segundo jardim,35-44,Bela Vista,Sim,5,Não,Simulado para projeto acadêmico
+AG-0397,2025-11-12,2025-11,Quarta-feira,18:15,Jean Santana,Barba,Barba,30,30,0,30,Confirmado,Dinheiro,CLI-086,Kauã Moura,18-24,São José,Não,,Não,Simulado para projeto acadêmico
+AG-0387,2025-11-13,2025-11,Quinta-feira,08:15,Jean Santana,Hidratação,Tratamento,30,15,0,15,Confirmado,Dinheiro,CLI-054,Carlos Henrique Henrique,45-54,Industrial,Não,,Não,Simulado para projeto acadêmico
+AG-0392,2025-11-13,2025-11,Quinta-feira,15:00,Jean Santana,Pezinho,Acabamento,15,10,5,5,Concluído,Cartão de débito,CLI-069,Jailson Silva,45-54,Jardim América,Não,5,Não,Simulado para projeto acadêmico
+AG-0403,2025-11-14,2025-11,Sexta-feira,09:00,Jean Santana,Cabelo,Cabelo,35,35,5,30,Concluído,Cartão de crédito,CLI-101,Mikaelly Correia,18-24,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0398,2025-11-15,2025-11,Sábado,19:30,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Cartão de crédito,CLI-096,Édipo Santos Rocha,18-24,Industrial,Não,,Não,Simulado para projeto acadêmico
+AG-0399,2025-11-16,2025-11,Domingo,10:30,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Cartão de crédito,CLI-012,Nicolas Amaral,25-34,Industrial,Não,4,Não,Simulado para projeto acadêmico
+AG-0396,2025-11-16,2025-11,Domingo,15:45,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Confirmado,Dinheiro,CLI-042,Edu Freire,25-34,Bela Vista,Não,,Não,Simulado para projeto acadêmico
+AG-0366,2025-11-16,2025-11,Domingo,17:00,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Pix,CLI-056,Diego Evo,18-24,Bela Vista,Não,5,Não,Simulado para projeto acadêmico
+AG-0393,2025-11-16,2025-11,Domingo,18:30,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Pix,CLI-032,Levy silva,25-34,Santa Rosa,Não,5,Não,Simulado para projeto acadêmico
+AG-0376,2025-11-16,2025-11,Domingo,19:00,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Confirmado,Dinheiro,CLI-078,Mario Rodrigues,35-44,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0374,2025-11-17,2025-11,Segunda-feira,18:00,Jean Santana,Luzes,Coloração,90,35,0,35,Confirmado,Dinheiro,CLI-090,vinke 006,55+,Jardim América,Não,,Não,Simulado para projeto acadêmico
+AG-0394,2025-11-19,2025-11,Quarta-feira,10:00,Jean Santana,Sombrancelha,Acabamento,15,10,5,5,Concluído,Cartão de crédito,CLI-092,Joao Vitor,25-34,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0391,2025-11-19,2025-11,Quarta-feira,10:15,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Dinheiro,CLI-020,Marcio Silva,55+,Jardim América,Não,5,Não,Simulado para projeto acadêmico
+AG-0390,2025-11-19,2025-11,Quarta-feira,17:00,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Pix,CLI-011,Rubens Silva,18-24,Santa Rosa,Não,4,Não,Simulado para projeto acadêmico
+AG-0368,2025-11-20,2025-11,Quinta-feira,08:45,Jean Santana,Cabelo e barba,Combo,60,60,5,55,Concluído,Pix,CLI-043,Gilsinho D.silva,35-44,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0375,2025-11-20,2025-11,Quinta-feira,11:00,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Dinheiro,CLI-077,Elenildo Ferreira,25-34,Bela Vista,Não,4,Não,Simulado para projeto acadêmico
+AG-0372,2025-11-20,2025-11,Quinta-feira,15:45,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Cartão de débito,CLI-091,ORS Frost,18-24,Bela Vista,Sim,4,Não,Simulado para projeto acadêmico
+AG-0371,2025-11-21,2025-11,Sexta-feira,16:30,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Pix,CLI-100,进多来现,55+,São José,Sim,5,Não,Simulado para projeto acadêmico
+AG-0386,2025-11-21,2025-11,Sexta-feira,18:15,Jean Santana,Hidratação,Tratamento,30,15,0,15,Concluído,Cartão de crédito,CLI-072,Garachi,25-34,São José,Não,,Não,Simulado para projeto acadêmico
+AG-0395,2025-11-22,2025-11,Sábado,17:15,Jean Santana,Luzes,Coloração,90,35,0,0,Cancelado,,CLI-101,Mikaelly Correia,18-24,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0389,2025-11-23,2025-11,Domingo,15:00,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Dinheiro,CLI-039,Joao filipe,45-54,Santa Rosa,Não,5,Não,Simulado para projeto acadêmico
+AG-0379,2025-11-27,2025-11,Quinta-feira,18:45,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Dinheiro,CLI-106,BRAYAN gameplay,18-24,Vila Nova,Sim,5,Não,Simulado para projeto acadêmico
+AG-0409,2025-12-01,2025-12,Segunda-feira,09:30,Jean Santana,Cabelo,Cabelo,35,35,0,35,Concluído,Cartão de débito,CLI-062,Milton Júnior correia dos Santos Júnior,25-34,Jardim América,Não,,Não,Simulado para projeto acadêmico
+AG-0423,2025-12-01,2025-12,Segunda-feira,11:45,Jean Santana,Cabelo,Cabelo,35,35,0,35,Concluído,Dinheiro,CLI-027,Fernando Miguel Larrazabal valdez,25-34,Jardim América,Não,4,Não,Simulado para projeto acadêmico
+AG-0433,2025-12-01,2025-12,Segunda-feira,18:00,Jean Santana,Barba,Barba,30,30,0,30,Concluído,Dinheiro,CLI-042,Edu Freire,25-34,Bela Vista,Não,5,Não,Simulado para projeto acadêmico
+AG-0432,2025-12-02,2025-12,Terça-feira,10:00,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Cartão de débito,CLI-065,Sheldon Robson,55+,São José,Não,5,Não,Simulado para projeto acadêmico
+AG-0439,2025-12-02,2025-12,Terça-feira,14:30,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Pix,CLI-059,alexander gonzalez,45-54,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0414,2025-12-03,2025-12,Quarta-feira,08:00,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Pix,CLI-077,Elenildo Ferreira,25-34,Bela Vista,Não,5,Não,Simulado para projeto acadêmico
+AG-0416,2025-12-04,2025-12,Quinta-feira,10:00,Jean Santana,Relaxamento,Tratamento,45,20,0,20,Concluído,Pix,CLI-105,Rony Brayan Santana Maia,55+,Bela Vista,Não,5,Não,Simulado para projeto acadêmico
+AG-0420,2025-12-04,2025-12,Quinta-feira,14:00,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Concluído,Dinheiro,CLI-122,Isaac lima,25-34,Centro,Não,4,Não,Simulado para projeto acadêmico
+AG-0418,2025-12-04,2025-12,Quinta-feira,15:00,Jean Santana,Cabelo,Cabelo,35,35,0,35,Confirmado,Pix,CLI-099,Eduardo Oenninng,45-54,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0435,2025-12-04,2025-12,Quinta-feira,16:00,Jean Santana,Sombrancelha,Acabamento,15,10,5,5,Concluído,Pix,CLI-127,Rodrigo Davi,25-34,Vila Nova,Sim,4,Não,Simulado para projeto acadêmico
+AG-0406,2025-12-06,2025-12,Sábado,16:15,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Confirmado,Dinheiro,CLI-082,fre fairi luisandresantos,25-34,Industrial,Sim,,Não,Simulado para projeto acadêmico
+AG-0434,2025-12-07,2025-12,Domingo,09:30,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Cartão de débito,CLI-032,Levy silva,25-34,Santa Rosa,Não,4,Não,Simulado para projeto acadêmico
+AG-0411,2025-12-07,2025-12,Domingo,11:45,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Dinheiro,CLI-116,Ryan alexandre,18-24,Santa Rosa,Não,,Não,Simulado para projeto acadêmico
+AG-0410,2025-12-09,2025-12,Terça-feira,11:00,Jean Santana,Sombrancelha,Acabamento,15,10,0,10,Confirmado,Cartão de crédito,CLI-129,Fco Mauríciø Mendes 8D,45-54,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0407,2025-12-09,2025-12,Terça-feira,18:00,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Cartão de crédito,CLI-034,Rafael Silva,45-54,Jardim América,Sim,5,Não,Simulado para projeto acadêmico
+AG-0431,2025-12-09,2025-12,Terça-feira,18:15,Jean Santana,Cabelo + barba na máquina,Combo,45,40,5,35,Concluído,Pix,CLI-082,fre fairi luisandresantos,25-34,Industrial,Sim,5,Não,Simulado para projeto acadêmico
+AG-0422,2025-12-11,2025-12,Quinta-feira,11:15,Jean Santana,Relaxamento,Tratamento,45,20,5,0,Cancelado,,CLI-039,Joao filipe,45-54,Santa Rosa,Não,,Não,Simulado para projeto acadêmico
+AG-0408,2025-12-12,2025-12,Sexta-feira,11:00,Jean Santana,Relaxamento,Tratamento,45,20,5,15,Confirmado,Cartão de débito,CLI-071,Rogerio Maia nogueira,18-24,Vila Nova,Sim,,Não,Simulado para projeto acadêmico
+AG-0417,2025-12-12,2025-12,Sexta-feira,13:30,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Dinheiro,CLI-100,进多来现,55+,São José,Sim,,Não,Simulado para projeto acadêmico
+AG-0429,2025-12-12,2025-12,Sexta-feira,17:00,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Cartão de crédito,CLI-082,fre fairi luisandresantos,25-34,Industrial,Sim,5,Não,Simulado para projeto acadêmico
+AG-0424,2025-12-14,2025-12,Domingo,11:00,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Dinheiro,CLI-109,Damares Viviane,45-54,Santa Rosa,Sim,5,Não,Simulado para projeto acadêmico
+AG-0437,2025-12-15,2025-12,Segunda-feira,14:45,Jean Santana,Hidratação,Tratamento,30,15,0,0,No-show,,CLI-022,Evandro Magalhães,25-34,Vila Nova,Sim,,Sim,Simulado para projeto acadêmico
+AG-0415,2025-12-15,2025-12,Segunda-feira,16:45,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Pix,CLI-129,Fco Mauríciø Mendes 8D,45-54,Centro,Não,,Não,Simulado para projeto acadêmico
+AG-0421,2025-12-16,2025-12,Terça-feira,10:30,Jean Santana,Luzes,Coloração,90,35,5,30,Concluído,Dinheiro,CLI-027,Fernando Miguel Larrazabal valdez,25-34,Jardim América,Não,5,Não,Simulado para projeto acadêmico
+AG-0436,2025-12-17,2025-12,Quarta-feira,14:30,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Dinheiro,CLI-017,Ronaldo de Souza,25-34,Centro,Não,5,Não,Simulado para projeto acadêmico
+AG-0441,2025-12-17,2025-12,Quarta-feira,14:45,Jean Santana,Pezinho,Acabamento,15,10,0,10,Concluído,Cartão de débito,CLI-017,Ronaldo de Souza,25-34,Centro,Não,5,Não,Simulado para projeto acadêmico
+AG-0428,2025-12-19,2025-12,Sexta-feira,08:00,Jean Santana,Cabelo e barba,Combo,60,60,0,60,Concluído,Cartão de débito,CLI-011,Rubens Silva,18-24,Santa Rosa,Não,,Não,Simulado para projeto acadêmico
+AG-0412,2025-12-20,2025-12,Sábado,19:00,Jean Santana,Luzes,Coloração,90,35,0,35,Confirmado,Cartão de crédito,CLI-098,Fabio Arruda,35-44,Bela Vista,Não,,Não,Simulado para projeto acadêmico
+AG-0442,2025-12-20,2025-12,Sábado,19:00,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Pix,CLI-044,Adilson Bezerra,45-54,São José,Não,,Não,Simulado para projeto acadêmico
+AG-0405,2025-12-21,2025-12,Domingo,14:00,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Confirmado,Cartão de crédito,CLI-070,Jonatan Ribeiro,55+,Bela Vista,Sim,,Não,Simulado para projeto acadêmico
+AG-0426,2025-12-21,2025-12,Domingo,19:45,Jean Santana,Cabelo,Cabelo,35,35,0,0,No-show,,CLI-010,Saulo Mendes de Melo,55+,Centro,Sim,,Sim,Simulado para projeto acadêmico
+AG-0413,2025-12-23,2025-12,Terça-feira,10:00,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Cartão de crédito,CLI-010,Saulo Mendes de Melo,55+,Centro,Sim,4,Não,Simulado para projeto acadêmico
+AG-0440,2025-12-24,2025-12,Quarta-feira,17:45,Jean Santana,Cabelo na máquina,Cabelo,30,30,0,30,Concluído,Dinheiro,CLI-014,eolopezzz,45-54,Bela Vista,Não,4,Não,Simulado para projeto acadêmico
+AG-0419,2025-12-25,2025-12,Quinta-feira,15:45,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Cartão de crédito,CLI-075,William Cruz,55+,Industrial,Não,5,Não,Simulado para projeto acadêmico
+AG-0438,2025-12-26,2025-12,Sexta-feira,08:00,Jean Santana,Luzes,Coloração,90,35,0,35,Concluído,Cartão de débito,CLI-115,dudu,55+,Centro,Sim,5,Não,Simulado para projeto acadêmico
+AG-0427,2025-12-26,2025-12,Sexta-feira,10:00,Jean Santana,Cabelo + barba na máquina,Combo,45,40,0,40,Concluído,Cartão de crédito,CLI-061,Dr Francisco Teixeira,18-24,Industrial,Sim,5,Não,Simulado para projeto acadêmico
+AG-0425,2025-12-26,2025-12,Sexta-feira,11:45,Jean Santana,Cabelo + luzes,Coloração,120,60,0,60,Concluído,Dinheiro,CLI-091,ORS Frost,18-24,Bela Vista,Sim,5,Não,Simulado para projeto acadêmico
+AG-0430,2025-12-26,2025-12,Sexta-feira,16:30,Jean Santana,Cabelo,Cabelo,35,35,0,35,Concluído,Cartão de débito,CLI-039,Joao filipe,45-54,Santa Rosa,Não,4,Não,Simulado para projeto acadêmico
