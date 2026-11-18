@@ -22,6 +22,8 @@ WEEKDAY_ORDER = [
     "Domingo",
 ]
 
+AGE_GROUP_ORDER = ["18-24", "25-34", "35-44", "45-54", "55+"]
+
 STATUS_COLORS = {
     "Concluído": "#22c55e",
     "Confirmado": "#38bdf8",
@@ -117,16 +119,29 @@ def apply_filters(data: pd.DataFrame) -> pd.DataFrame:
 
 
 def plot_layout(fig: go.Figure, height: int = 340) -> go.Figure:
+    has_legend = len(fig.data) > 1 or any(
+        getattr(trace, "type", None) == "pie" for trace in fig.data
+    )
+    top_margin = 95 if has_legend else 72
     fig.update_layout(
-        height=height,
-        margin=dict(l=10, r=10, t=45, b=10),
+        height=height + 40,
+        margin=dict(l=16, r=24, t=top_margin, b=20),
         paper_bgcolor="rgba(0,0,0,0)",
         plot_bgcolor="rgba(0,0,0,0)",
         font=dict(color="#dbeafe"),
-        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="left", x=0),
+        title=dict(y=0.97, yanchor="top", x=0, xanchor="left"),
+        legend=dict(
+            orientation="h",
+            yanchor="bottom",
+            y=1.02,
+            xanchor="left",
+            x=0,
+            title_text="",
+        ),
     )
-    fig.update_xaxes(showgrid=False)
-    fig.update_yaxes(gridcolor="rgba(148,163,184,0.16)")
+    fig.update_xaxes(showgrid=False, automargin=True)
+    fig.update_yaxes(gridcolor="rgba(148,163,184,0.16)", automargin=True)
+    fig.update_traces(cliponaxis=False, selector=dict(type="bar"))
     return fig
 
 
@@ -276,6 +291,22 @@ def show_services(data: pd.DataFrame) -> None:
         color="categoria_servico",
     )
     st.plotly_chart(plot_layout(fig, 340), width="stretch")
+
+    service_age = (
+        completed.groupby(["servico", "faixa_etaria"], observed=False)
+        .size()
+        .unstack(fill_value=0)
+        .reindex(index=summary["servico"], columns=AGE_GROUP_ORDER, fill_value=0)
+    )
+    fig = px.imshow(
+        service_age,
+        text_auto=True,
+        aspect="auto",
+        color_continuous_scale="Blues",
+        title="Serviços realizados por faixa etária",
+        labels={"x": "Faixa etária", "y": "Serviço", "color": "Realizados"},
+    )
+    st.plotly_chart(plot_layout(fig, 420), width="stretch")
 
     table = summary.rename(
         columns={
@@ -485,8 +516,49 @@ def main() -> None:
         <style>
         .stApp { background: #07111f; color: #e2e8f0; }
         [data-testid="stSidebar"] { background: #0b1728; }
-        [data-testid="stMetric"] { background: linear-gradient(135deg, #102b4a, #0c1e35); border: 1px solid #1e446b; padding: 15px; border-radius: 14px; }
+        [data-testid="stHorizontalBlock"]:has([data-testid="stMetric"]) {
+            align-items: stretch;
+        }
+        [data-testid="stHorizontalBlock"]:has([data-testid="stMetric"]) > [data-testid="stColumn"],
+        [data-testid="stHorizontalBlock"]:has([data-testid="stMetric"]) > [data-testid="column"] {
+            display: flex;
+            flex-direction: column;
+        }
+        [data-testid="stHorizontalBlock"]:has([data-testid="stMetric"]) [data-testid="stVerticalBlock"],
+        [data-testid="stHorizontalBlock"]:has([data-testid="stMetric"]) [data-testid="stElementContainer"],
+        [data-testid="stHorizontalBlock"]:has([data-testid="stMetric"]) .element-container {
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            flex: 1 1 auto;
+        }
+        [data-testid="stMetric"] {
+            background: linear-gradient(135deg, #102b4a, #0c1e35);
+            border: 1px solid #1e446b;
+            padding: 15px;
+            border-radius: 14px;
+            height: 100%;
+            width: 100%;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
         [data-testid="stMetricLabel"] { color: #93c5fd; }
+        [data-testid="stMetricLabel"],
+        [data-testid="stMetricLabel"] > div,
+        [data-testid="stMetricLabel"] p,
+        [data-testid="stMetricValue"],
+        [data-testid="stMetricValue"] > div {
+            white-space: normal !important;
+            overflow: visible !important;
+            text-overflow: clip !important;
+            overflow-wrap: break-word;
+            word-break: break-word;
+            max-width: 100%;
+            line-height: 1.25;
+        }
+        [data-testid="stMetricValue"] { font-size: clamp(1.05rem, 1.45vw, 1.55rem); }
         h1, h2, h3 { color: #f8fafc; }
         .block-container { padding-top: 2rem; }
         </style>
@@ -530,7 +602,7 @@ def main() -> None:
     completion_rate = len(completed) / len(filtered)
     no_show_count = (filtered["status"] == "No-show").sum()
 
-    k1, k2, k3, k4, k5, k6 = st.columns(6)
+    k1, k2, k3, k4, k5, k6 = st.columns([1.0, 1.15, 1.65, 1.25, 1.15, 0.9])
     k1.metric("Agendamentos", f"{len(filtered):,}".replace(",", "."))
     k2.metric("Serviços realizados", f"{len(completed):,}".replace(",", "."))
     k3.metric("Receita concluída", brl(revenue))
